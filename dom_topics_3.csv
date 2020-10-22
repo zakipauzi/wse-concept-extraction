@@ -1,4 +1,4 @@
-Component,File_count,Dominant_topic,Perc_contribution,Macro-topic
+Component,File_count,Dominant_topic,Perc_contribution,Macro_topic
 15puzzle-1,15,1,0.5070000290870667,message-based
 15puzzle-2,5,3,0.625,event-based
 15puzzle-3,2,1,0.8519999980926514,message-based
@@ -26,7 +26,7 @@ android-sasl-3,255,3,0.8799999952316284,event-based
 android-sasl-4,145,3,0.625,event-based
 android-wave-client-1,19,2,0.8730000257492065,object-based
 android-wave-client-2,3,3,0.7559999823570251,event-based
-android_app-1,5,2,0.9399999976158142,object-based
+android_app-1,5,2,0.9390000104904175,object-based
 android_packages_apps_Mms-1,138,3,0.527999997138977,event-based
 android_packages_apps_Mms-2,36,2,0.5609999895095825,object-based
 antisamy-filter-1,7,1,0.7009999752044678,message-based
@@ -37,7 +37,7 @@ artoz_pim-10,2,3,1.0,event-based
 artoz_pim-11,2,3,1.0,event-based
 artoz_pim-12,1,1,0.6660000085830688,message-based
 artoz_pim-2,45,2,0.6489999890327454,object-based
-artoz_pim-3,19,3,0.6359999775886536,event-based
+artoz_pim-3,19,3,0.6370000243186951,event-based
 artoz_pim-4,4,3,0.4749999940395355,event-based
 artoz_pim-5,4,1,1.0,message-based
 artoz_pim-6,1,1,1.0,message-based
@@ -46,7 +46,7 @@ artoz_pim-8,1,1,1.0,message-based
 artoz_pim-9,1,1,1.0,message-based
 ase4j-1,139,1,0.5600000023841858,message-based
 ase4j-2,13,1,0.9810000061988831,message-based
-ase4j-3,1,2,0.9139999747276306,object-based
+ase4j-3,1,2,0.9169999957084656,object-based
 awindow-1,2,3,0.9990000128746033,event-based
 basic-clock-1,5,2,1.0,object-based
 basic-typed-stack-1,3,2,0.9990000128746033,object-based
@@ -86,7 +86,7 @@ cassandra-1,286,1,0.9990000128746033,message-based
 cassandra-2,5,2,0.6029999852180481,object-based
 cassandra-3,1,1,1.0,message-based
 cassandra-4,1,2,0.9950000047683716,object-based
-cdiext-1,42,2,0.902999997138977,object-based
+cdiext-1,42,2,0.9020000100135803,object-based
 cdiext-2,14,1,0.7120000123977661,message-based
 cdiext-3,19,2,0.7269999980926514,object-based
 cdiext-4,4,2,1.0,object-based
@@ -134,8 +134,8 @@ droidraw-1,3,3,1.0,event-based
 DroidStats-1,5,3,0.8339999914169312,event-based
 dsl4eclipse-1,4,3,0.7699999809265137,event-based
 dsl4eclipse-2,2,3,1.0,event-based
-dsl4eclipse-3,2,2,0.9010000228881836,object-based
-dwr-toplink-1,2,2,0.9309999942779541,object-based
+dsl4eclipse-3,2,2,0.902999997138977,object-based
+dwr-toplink-1,2,2,0.9319999814033508,object-based
 dwr-toplink-2,2,2,0.9990000128746033,object-based
 edmontoninfo_android-1,5,3,0.9779999852180481,event-based
 edmontoninfo_android-10,2,3,0.5149999856948853,event-based
@@ -154,13 +154,13 @@ edmontoninfo_android-6,4,3,0.5559999942779541,event-based
 edmontoninfo_android-7,4,2,0.5170000195503235,object-based
 edmontoninfo_android-8,4,2,0.5789999961853027,object-based
 edmontoninfo_android-9,4,2,0.5910000205039978,object-based
-eftepd-1,10,1,0.9739999771118164,message-based
+eftepd-1,10,1,0.9729999899864197,message-based
 eftepd-2,2,1,1.0,message-based
 etherpad-1,88,2,1.0,object-based
 etherpad-10,1,2,1.0,object-based
 etherpad-11,5,2,1.0,object-based
 etherpad-12,5,2,0.9570000171661377,object-based
-etherpad-13,12,2,0.9660000205039978,object-based
+etherpad-13,12,2,0.9649999737739563,object-based
 etherpad-14,3,2,1.0,object-based
 etherpad-15,4,2,1.0,object-based
 etherpad-16,1,3,0.9179999828338623,event-based
@@ -186,7 +186,7 @@ Example-CRM-Oracle-OnDemand-with-Java-1,7,2,0.8740000128746033,object-based
 Example-CRM-Oracle-OnDemand-with-Java-2,4,1,0.8090000152587891,message-based
 fade-1,10,2,1.0,object-based
 fade-2,2,3,0.9980000257492065,event-based
-fauxml-1,5,2,0.9829999804496765,object-based
+fauxml-1,5,2,0.9850000143051147,object-based
 fbus-1,3,3,0.8339999914169312,event-based
 fc-1,25,2,0.9039999842643738,object-based
 fc-2,5,2,0.6869999766349792,object-based
@@ -211,7 +211,7 @@ FSCom_JavaTut-16,2,3,1.0,event-based
 FSCom_JavaTut-17,2,3,0.5210000276565552,event-based
 FSCom_JavaTut-2,31,1,1.0,message-based
 FSCom_JavaTut-3,15,1,0.8550000190734863,message-based
-FSCom_JavaTut-4,15,1,0.7250000238418579,message-based
+FSCom_JavaTut-4,15,1,0.7239999771118164,message-based
 FSCom_JavaTut-5,3,3,1.0,event-based
 FSCom_JavaTut-6,3,3,0.7250000238418579,event-based
 FSCom_JavaTut-7,4,1,0.9990000128746033,message-based
@@ -225,7 +225,7 @@ fwf-5,4,1,0.8759999871253967,message-based
 fwf-6,3,3,0.5410000085830688,event-based
 fwf-7,1,1,0.8299999833106995,message-based
 fwf-8,2,3,0.9990000128746033,event-based
-fwf-9,3,3,0.4519999921321869,event-based
+fwf-9,3,3,0.4580000042915344,event-based
 gab-web-example-1,1,2,0.9980000257492065,object-based
 generator-example-1,2,1,0.9169999957084656,message-based
 Go-Dutch-1,7,3,1.0,event-based
@@ -238,12 +238,12 @@ google-sites-liberation-2,23,2,0.609000027179718,object-based
 google-sites-liberation-3,8,2,0.75,object-based
 google-sites-liberation-4,7,2,0.9190000295639038,object-based
 google-sites-liberation-5,17,2,0.675000011920929,object-based
-google-sites-liberation-6,5,2,0.753000020980835,object-based
-google-sites-liberation-7,10,3,0.9039999842643738,event-based
+google-sites-liberation-6,5,2,0.7519999742507935,object-based
+google-sites-liberation-7,10,3,0.9049999713897705,event-based
 google-sites-liberation-8,10,2,0.652999997138977,object-based
 google-sites-liberation-9,2,3,0.9990000128746033,event-based
 google-wave-api-1,133,2,0.9940000176429749,object-based
-google-wave-api-10,2,1,0.9900000095367432,message-based
+google-wave-api-10,2,1,1.0,message-based
 google-wave-api-11,2,3,0.550000011920929,event-based
 google-wave-api-12,2,2,0.9990000128746033,object-based
 google-wave-api-13,1,1,0.9990000128746033,message-based
@@ -265,7 +265,7 @@ google-wave-api-5,23,2,0.847000002861023,object-based
 google-wave-api-6,9,2,0.6589999794960022,object-based
 google-wave-api-7,9,2,1.0,object-based
 google-wave-api-8,6,2,0.3790000081062317,object-based
-google-wave-api-9,2,1,0.6959999799728394,message-based
+google-wave-api-9,2,1,0.699999988079071,message-based
 GooGrade-1,16,3,0.718999981880188,event-based
 GooGrade-10,1,3,0.8579999804496765,event-based
 GooGrade-2,10,3,0.6489999890327454,event-based
@@ -274,7 +274,7 @@ GooGrade-4,3,3,0.5460000038146973,event-based
 GooGrade-5,2,3,0.5090000033378601,event-based
 GooGrade-6,4,3,0.8370000123977661,event-based
 GooGrade-7,2,2,0.6150000095367432,object-based
-GooGrade-8,5,1,0.8149999976158142,message-based
+GooGrade-8,5,1,0.8140000104904175,message-based
 GooGrade-9,2,1,0.9629999995231628,message-based
 GoSupport-1,1,1,0.9779999852180481,message-based
 greensopinion.restexample-1,9,2,1.0,object-based
@@ -308,12 +308,12 @@ hbasene-8,2,2,0.4009999930858612,object-based
 heritrix-rest-client-1,3,2,0.8289999961853027,object-based
 heritrix3-1,446,2,0.9350000023841858,object-based
 heritrix3-10,2,2,0.6610000133514404,object-based
-heritrix3-11,2,2,0.5,object-based
+heritrix3-11,2,1,0.5,message-based
 heritrix3-2,62,2,0.9789999723434448,object-based
 heritrix3-3,22,2,1.0,object-based
 heritrix3-4,38,2,1.0,object-based
 heritrix3-5,21,2,0.621999979019165,object-based
-heritrix3-6,3,2,0.8690000176429749,object-based
+heritrix3-6,3,2,0.8709999918937683,object-based
 heritrix3-7,1,2,0.9990000128746033,object-based
 heritrix3-8,1,2,0.9990000128746033,object-based
 heritrix3-9,1,2,0.7129999995231628,object-based
@@ -346,7 +346,7 @@ IndepMod-18,6,3,1.0,event-based
 IndepMod-19,3,3,1.0,event-based
 IndepMod-2,11,3,1.0,event-based
 IndepMod-20,7,3,1.0,event-based
-IndepMod-21,5,3,0.9070000052452087,event-based
+IndepMod-21,5,3,0.906000018119812,event-based
 IndepMod-22,4,3,1.0,event-based
 IndepMod-23,6,3,0.9449999928474426,event-based
 IndepMod-24,5,3,1.0,event-based
@@ -382,9 +382,9 @@ jacorb-3,123,2,1.0,object-based
 jacorb-4,12,2,1.0,object-based
 jacorb-5,1,2,0.9990000128746033,object-based
 jacorb-6,4,1,0.9990000128746033,message-based
-jacorb-7,2,3,0.5379999876022339,event-based
+jacorb-7,2,3,0.5329999923706055,event-based
 jastadd-tags-1,3,3,0.550000011920929,event-based
-jastadd-tags-2,3,1,0.5920000076293945,message-based
+jastadd-tags-2,3,1,0.5910000205039978,message-based
 java-campussearch-1,6,1,0.5479999780654907,message-based
 java-hstore-1,9,2,1.0,object-based
 java-hstore-2,5,2,0.847000002861023,object-based
@@ -411,7 +411,7 @@ jdbc-perf-wrapper-3,1,1,0.5270000100135803,message-based
 jdbc-perf-wrapper-4,1,1,1.0,message-based
 JGit-1,525,3,0.7440000176429749,event-based
 JGit-2,16,2,0.718999981880188,object-based
-jgit-simple-1,8,3,0.5600000023841858,event-based
+jgit-simple-1,8,3,0.5609999895095825,event-based
 jsqueeze-1,21,3,0.7360000014305115,event-based
 jsqueeze-2,12,3,0.6000000238418579,event-based
 jsqueeze-3,25,1,0.7929999828338623,message-based
@@ -428,7 +428,7 @@ JsTestDriver-11,2,1,0.9990000128746033,message-based
 JsTestDriver-12,2,1,0.7609999775886536,message-based
 JsTestDriver-13,1,3,0.9990000128746033,event-based
 JsTestDriver-14,2,1,0.9990000128746033,message-based
-JsTestDriver-15,2,1,0.9940000176429749,message-based
+JsTestDriver-15,2,1,0.9860000014305115,message-based
 JsTestDriver-16,2,2,0.6430000066757202,object-based
 JsTestDriver-17,2,2,0.9990000128746033,object-based
 JsTestDriver-2,19,1,1.0,message-based
@@ -458,7 +458,7 @@ ldapcon2009-datanucleus-3,5,3,0.46799999475479126,event-based
 ldapcon2009-datanucleus-4,4,3,0.875,event-based
 ldapcon2009-datanucleus-5,2,2,0.9990000128746033,object-based
 libreadline-java-mac-1,10,1,0.628000020980835,message-based
-libreadline-java-mac-2,1,2,0.527999997138977,object-based
+libreadline-java-mac-2,1,2,0.5289999842643738,object-based
 life-1,4,3,1.0,event-based
 limewire-1,1896,1,0.9980000257492065,message-based
 limewire-10,8,2,0.9399999976158142,object-based
@@ -486,7 +486,7 @@ linkdroid-1,6,2,0.5830000042915344,object-based
 linkdroid-2,8,2,0.7110000252723694,object-based
 linkdroid-3,4,2,0.6100000143051147,object-based
 linkdroid-4,3,2,1.0,object-based
-linkdroid-5,2,2,0.9150000214576721,object-based
+linkdroid-5,2,2,0.9139999747276306,object-based
 linkdroid-6,2,2,0.9549999833106995,object-based
 linkdroid-7,4,2,0.5419999957084656,object-based
 maven-guide-de-1,9,1,1.0,message-based
@@ -548,10 +548,10 @@ MusicQuiz-2,4,3,1.0,event-based
 MusicQuiz-3,3,3,1.0,event-based
 MusicQuiz-4,4,3,1.0,event-based
 namqp-1,67,2,0.8009999990463257,object-based
-namqp-2,17,2,0.6660000085830688,object-based
+namqp-2,17,2,0.6650000214576721,object-based
 namqp-3,9,2,0.6480000019073486,object-based
 namqp-4,7,2,1.0,object-based
-namqp-5,3,1,0.621999979019165,message-based
+namqp-5,3,1,0.6230000257492065,message-based
 namqp-6,4,1,0.5889999866485596,message-based
 NetConnect-1,16,2,0.5149999856948853,object-based
 NetConnect-2,3,3,0.546999990940094,event-based
@@ -609,7 +609,7 @@ paraDemo-1,41,2,1.0,object-based
 paraDemo-2,33,2,0.4959999918937683,object-based
 paraDemo-3,24,2,1.0,object-based
 paraDemo-4,3,2,0.5210000276565552,object-based
-paraDemo-5,1,2,0.5690000057220459,object-based
+paraDemo-5,1,2,0.5669999718666077,object-based
 parallelpaint-server-1,9,2,0.5770000219345093,object-based
 parallelpaint-server-2,8,1,1.0,message-based
 patched-xfire-1,66,1,0.6700000166893005,message-based
@@ -642,7 +642,7 @@ patched-xfire-9,10,2,0.7210000157356262,object-based
 pctDroidApp-1,6,2,0.7379999756813049,object-based
 pctDroidApp-2,2,3,0.9990000128746033,event-based
 PermissionReader-1,1,3,1.0,event-based
-play-user-sample-1,2,3,0.6840000152587891,event-based
+play-user-sample-1,2,3,0.6850000023841858,event-based
 plexus-component-factories-1,4,2,0.6850000023841858,object-based
 plexus-component-factories-2,2,3,0.9959999918937683,event-based
 plexus-component-factories-3,2,2,0.5630000233650208,object-based
@@ -651,7 +651,7 @@ pocker-e-sueca-2,6,2,0.8790000081062317,object-based
 pocker-e-sueca-3,7,2,1.0,object-based
 pocker-e-sueca-4,4,2,1.0,object-based
 pocker-e-sueca-5,5,2,1.0,object-based
-pocker-e-sueca-6,3,3,0.5440000295639038,event-based
+pocker-e-sueca-6,3,3,0.5450000166893005,event-based
 post-to-friendfeed-1,7,2,0.5730000138282776,object-based
 post-to-friendfeed-2,4,2,0.921999990940094,object-based
 Processing.py-Eclipse-Launcher-1,3,3,0.8450000286102295,event-based
@@ -682,7 +682,7 @@ restunit-1,25,1,0.9860000014305115,message-based
 restunit-2,7,1,1.0,message-based
 restunit-3,8,1,0.5820000171661377,message-based
 satellite-1,3,1,1.0,message-based
-satellite-2,2,1,0.5509999990463257,message-based
+satellite-2,2,1,0.550000011920929,message-based
 scorm2fedora-1,7,3,0.5019999742507935,event-based
 scorm2fedora-2,3,3,0.9990000128746033,event-based
 shmrj-1,6,2,1.0,object-based
@@ -703,7 +703,7 @@ skoly-5,1,3,0.902999997138977,event-based
 skoly-6,8,3,0.8529999852180481,event-based
 skoly-7,3,3,1.0,event-based
 skoly-8,2,3,0.8759999871253967,event-based
-skoly-9,3,1,0.5630000233650208,message-based
+skoly-9,3,1,0.5540000200271606,message-based
 SOAP-1,17,1,1.0,message-based
 SOAP-2,14,1,0.5929999947547913,message-based
 SOAP-3,2,3,0.527999997138977,event-based
@@ -740,7 +740,7 @@ swtbot-original-21,2,1,0.597000002861023,message-based
 swtbot-original-22,1,3,1.0,event-based
 swtbot-original-23,1,2,0.7360000014305115,object-based
 swtbot-original-24,2,3,0.9990000128746033,event-based
-swtbot-original-25,2,2,0.6650000214576721,object-based
+swtbot-original-25,2,2,0.6610000133514404,object-based
 swtbot-original-26,2,3,0.6970000267028809,event-based
 swtbot-original-3,120,3,1.0,event-based
 swtbot-original-4,37,3,1.0,event-based
@@ -770,13 +770,13 @@ swtxml-7,11,3,0.8600000143051147,event-based
 swtxml-8,6,2,0.5009999871253967,object-based
 swtxml-9,7,3,0.527999997138977,event-based
 TaskTrckr-1,16,3,0.9950000047683716,event-based
-TaskTrckr-2,3,2,0.8840000033378601,object-based
+TaskTrckr-2,3,2,0.8830000162124634,object-based
 TaskTrckr-3,2,3,1.0,event-based
 Tetris-1,5,1,0.6370000243186951,message-based
 Tetris-2,5,1,0.7789999842643738,message-based
 Tetris-3,5,1,0.7590000033378601,message-based
 Tetris-4,2,1,0.6639999747276306,message-based
-Tetris-5,2,3,0.9990000128746033,event-based
+Tetris-5,2,3,0.8989999890327454,event-based
 Tetris-6,7,3,0.5569999814033508,event-based
 Tetris-7,3,1,0.6389999985694885,message-based
 Tetris-8,2,3,0.9990000128746033,event-based
