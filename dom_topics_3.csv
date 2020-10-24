@@ -1,849 +1,849 @@
-Component,File_count,Dominant_topic,Perc_contribution,Macro_topic
-15puzzle-1,15,1,0.5070000290870667,message-based
-15puzzle-2,5,3,0.625,event-based
-15puzzle-3,2,1,0.8519999980926514,message-based
-Aladyn-1,9,2,1.0,object-based
-Aladyn-2,3,2,1.0,object-based
-Aladyn-3,2,2,0.9990000128746033,object-based
-Aladyn-4,4,2,0.9990000128746033,object-based
-Aladyn-5,3,2,0.9980000257492065,object-based
-altlaw-extract-1,2,2,0.9070000052452087,object-based
-altlaw-extract-2,4,2,0.9549999833106995,object-based
-altlaw-extract-3,2,2,1.0,object-based
-altlaw-extract-4,1,2,1.0,object-based
-amqp-spring-1,12,2,0.46299999952316284,object-based
-amqp-spring-2,8,1,1.0,message-based
-amqp-spring-3,7,2,0.6499999761581421,object-based
-amqp-spring-4,5,1,0.8330000042915344,message-based
-amqp-spring-5,4,1,0.5540000200271606,message-based
-amqp-spring-6,5,1,0.9990000128746033,message-based
-amqp-spring-7,6,2,0.8169999718666077,object-based
-amqp-spring-8,2,1,0.5440000295639038,message-based
-amqp-spring-9,1,2,0.9980000257492065,object-based
-android-sasl-1,4789,2,0.9950000047683716,object-based
-android-sasl-2,695,3,1.0,event-based
-android-sasl-3,255,3,0.8799999952316284,event-based
-android-sasl-4,145,3,0.625,event-based
-android-wave-client-1,19,2,0.8730000257492065,object-based
-android-wave-client-2,3,3,0.7559999823570251,event-based
-android_app-1,5,2,0.9390000104904175,object-based
-android_packages_apps_Mms-1,138,3,0.527999997138977,event-based
-android_packages_apps_Mms-2,36,2,0.5609999895095825,object-based
-antisamy-filter-1,7,1,0.7009999752044678,message-based
-antisamy-filter-2,2,2,0.9990000128746033,object-based
-aoi-Headless-1,2,3,0.9990000128746033,event-based
-artoz_pim-1,6,1,1.0,message-based
-artoz_pim-10,2,3,1.0,event-based
-artoz_pim-11,2,3,1.0,event-based
-artoz_pim-12,1,1,0.6660000085830688,message-based
-artoz_pim-2,45,2,0.6489999890327454,object-based
-artoz_pim-3,19,3,0.6370000243186951,event-based
-artoz_pim-4,4,3,0.4749999940395355,event-based
-artoz_pim-5,4,1,1.0,message-based
-artoz_pim-6,1,1,1.0,message-based
-artoz_pim-7,1,1,1.0,message-based
-artoz_pim-8,1,1,1.0,message-based
-artoz_pim-9,1,1,1.0,message-based
-ase4j-1,139,1,0.5600000023841858,message-based
-ase4j-2,13,1,0.9810000061988831,message-based
-ase4j-3,1,2,0.9169999957084656,object-based
-awindow-1,2,3,0.9990000128746033,event-based
-basic-clock-1,5,2,1.0,object-based
-basic-typed-stack-1,3,2,0.9990000128746033,object-based
-Beta-SMS-1,16,2,0.5509999990463257,object-based
-Beta-SMS-2,7,1,0.6480000019073486,message-based
-Beta-SMS-3,6,3,0.6539999842643738,event-based
-Beta-SMS-4,7,1,0.5130000114440918,message-based
-Beta-SMS-5,5,2,0.8949999809265137,object-based
-Beta-SMS-6,4,1,0.5049999952316284,message-based
-Binomial-Distribution-1,6,1,0.7929999828338623,message-based
-bits4j-1,18,1,0.8220000267028809,message-based
-BlueTerm-1,3,3,0.765999972820282,event-based
-buckley-1,12,1,0.6069999933242798,message-based
-buckley-10,3,1,0.652999997138977,message-based
-buckley-2,14,3,0.6430000066757202,event-based
-buckley-3,8,2,0.5370000004768372,object-based
-buckley-4,5,2,0.5270000100135803,object-based
-buckley-5,5,3,0.9100000262260437,event-based
-buckley-6,6,3,0.4779999852180481,event-based
-buckley-7,3,2,0.6990000009536743,object-based
-buckley-8,3,3,1.0,event-based
-buckley-9,2,2,0.5400000214576721,object-based
-buildwall-ng-1,6,3,0.9649999737739563,event-based
-buildwall-ng-2,6,3,1.0,event-based
-buildwall-ng-3,13,1,0.7689999938011169,message-based
-buildwall-ng-4,3,2,1.0,object-based
-buildwall-ng-5,2,2,0.527999997138977,object-based
-CAR-1,19,2,1.0,object-based
-CAR-2,17,2,1.0,object-based
-CAR-3,15,2,1.0,object-based
-CAR-4,6,2,0.9990000128746033,object-based
-CAR-5,3,2,1.0,object-based
-CAR-6,5,2,0.9369999766349792,object-based
-CAR-7,2,2,1.0,object-based
-CAR-8,3,2,0.9990000128746033,object-based
-cassandra-1,286,1,0.9990000128746033,message-based
-cassandra-2,5,2,0.6029999852180481,object-based
-cassandra-3,1,1,1.0,message-based
-cassandra-4,1,2,0.9950000047683716,object-based
-cdiext-1,42,2,0.9020000100135803,object-based
-cdiext-2,14,1,0.7120000123977661,message-based
-cdiext-3,19,2,0.7269999980926514,object-based
-cdiext-4,4,2,1.0,object-based
-cdiext-5,1,1,0.9990000128746033,message-based
-cdiext-6,3,2,0.9990000128746033,object-based
-cdiext-7,1,2,0.6380000114440918,object-based
-cdiext-8,1,2,0.9990000128746033,object-based
-cdiext-9,2,1,0.9990000128746033,message-based
-cibus-1,48,2,0.9959999918937683,object-based
-cibus-2,25,3,0.5659999847412109,event-based
-cibus-3,2,2,0.996999979019165,object-based
-cibus2-1,3,2,1.0,object-based
-cibus2-2,3,2,1.0,object-based
-cibus2-3,2,2,0.8619999885559082,object-based
-cinch-1,4,1,0.8930000066757202,message-based
-classpath-manager-1,3,2,1.0,object-based
-code-retreat-reykjavik-1,11,3,1.0,event-based
-code-retreat-reykjavik-2,3,3,1.0,event-based
-code-retreat-reykjavik-3,2,3,1.0,event-based
-code-retreat-reykjavik-4,2,3,0.9990000128746033,event-based
-code-retreat-reykjavik-5,2,3,1.0,event-based
-ColaPop-1,12,1,1.0,message-based
-ColaPop-2,5,2,0.753000020980835,object-based
-ColaPop-3,3,1,1.0,message-based
-ColaPop-4,2,2,0.9990000128746033,object-based
-ColaPop-5,2,2,0.9990000128746033,object-based
-ColaPop-6,5,1,1.0,message-based
-ColaPop-7,2,1,0.9980000257492065,message-based
-confcaller-1,4,3,0.7990000247955322,event-based
-confcaller-2,2,3,0.9990000128746033,event-based
-defac-1,19,2,0.6809999942779541,object-based
-defac-2,2,2,1.0,object-based
-defac-3,1,1,0.6549999713897705,message-based
-defac-4,3,3,0.5460000038146973,event-based
-defac-5,2,3,0.5910000205039978,event-based
-defac-6,2,2,0.9990000128746033,object-based
-Dessolation-Messenger-of-Disservice-1,3,3,0.7020000219345093,event-based
-doogal-1,71,3,0.5609999895095825,event-based
-doogal-2,39,2,0.4749999940395355,object-based
-doogal-3,1,2,0.9990000128746033,object-based
-doogal-4,1,3,1.0,event-based
-doogal-5,3,2,1.0,object-based
-doogal-6,1,1,0.9900000095367432,message-based
-droidraw-1,3,3,1.0,event-based
-DroidStats-1,5,3,0.8339999914169312,event-based
-dsl4eclipse-1,4,3,0.7699999809265137,event-based
-dsl4eclipse-2,2,3,1.0,event-based
-dsl4eclipse-3,2,2,0.902999997138977,object-based
-dwr-toplink-1,2,2,0.9319999814033508,object-based
-dwr-toplink-2,2,2,0.9990000128746033,object-based
-edmontoninfo_android-1,5,3,0.9779999852180481,event-based
-edmontoninfo_android-10,2,3,0.5149999856948853,event-based
-edmontoninfo_android-11,3,3,1.0,event-based
-edmontoninfo_android-12,2,3,1.0,event-based
-edmontoninfo_android-13,3,3,1.0,event-based
-edmontoninfo_android-14,1,3,0.6209999918937683,event-based
-edmontoninfo_android-15,2,3,1.0,event-based
-edmontoninfo_android-16,1,3,1.0,event-based
-edmontoninfo_android-17,1,3,0.6240000128746033,event-based
-edmontoninfo_android-2,4,2,0.6880000233650208,object-based
-edmontoninfo_android-3,4,2,0.6539999842643738,object-based
-edmontoninfo_android-4,6,3,1.0,event-based
-edmontoninfo_android-5,4,2,0.6639999747276306,object-based
-edmontoninfo_android-6,4,3,0.5559999942779541,event-based
-edmontoninfo_android-7,4,2,0.5170000195503235,object-based
-edmontoninfo_android-8,4,2,0.5789999961853027,object-based
-edmontoninfo_android-9,4,2,0.5910000205039978,object-based
-eftepd-1,10,1,0.9729999899864197,message-based
-eftepd-2,2,1,1.0,message-based
-etherpad-1,88,2,1.0,object-based
-etherpad-10,1,2,1.0,object-based
-etherpad-11,5,2,1.0,object-based
-etherpad-12,5,2,0.9570000171661377,object-based
-etherpad-13,12,2,0.9649999737739563,object-based
-etherpad-14,3,2,1.0,object-based
-etherpad-15,4,2,1.0,object-based
-etherpad-16,1,3,0.9179999828338623,event-based
-etherpad-17,2,1,0.5019999742507935,message-based
-etherpad-18,2,3,0.5360000133514404,event-based
-etherpad-19,4,2,1.0,object-based
-etherpad-2,15,2,0.9610000252723694,object-based
-etherpad-20,1,2,0.5490000247955322,object-based
-etherpad-21,1,2,0.5139999985694885,object-based
-etherpad-22,1,2,0.6150000095367432,object-based
-etherpad-23,1,2,0.9980000257492065,object-based
-etherpad-24,1,2,1.0,object-based
-etherpad-25,2,2,0.9990000128746033,object-based
-etherpad-26,1,2,0.9900000095367432,object-based
-etherpad-3,7,2,1.0,object-based
-etherpad-4,10,2,0.921999990940094,object-based
-etherpad-5,6,2,1.0,object-based
-etherpad-6,10,2,0.9929999709129333,object-based
-etherpad-7,10,2,0.9879999756813049,object-based
-etherpad-8,4,2,1.0,object-based
-etherpad-9,8,3,0.6880000233650208,event-based
-Example-CRM-Oracle-OnDemand-with-Java-1,7,2,0.8740000128746033,object-based
-Example-CRM-Oracle-OnDemand-with-Java-2,4,1,0.8090000152587891,message-based
-fade-1,10,2,1.0,object-based
-fade-2,2,3,0.9980000257492065,event-based
-fauxml-1,5,2,0.9850000143051147,object-based
-fbus-1,3,3,0.8339999914169312,event-based
-fc-1,25,2,0.9039999842643738,object-based
-fc-2,5,2,0.6869999766349792,object-based
-fc-3,12,2,1.0,object-based
-feivel-1,10,2,0.7099999785423279,object-based
-feivel-2,3,2,1.0,object-based
-feivel-3,1,2,0.9990000128746033,object-based
-FerramentasProfessor-1,7,1,1.0,message-based
-FrontlineSMS-Forms-1,12,1,0.7509999871253967,message-based
-FrontlineSMS-Forms-2,9,3,1.0,event-based
-FrontlineSMS-Forms-3,12,1,0.9789999723434448,message-based
-FrontlineSMS-Forms-4,15,3,1.0,event-based
-FrontlineSMS-Forms-5,3,1,1.0,message-based
-FSCom_JavaTut-1,37,3,0.7789999842643738,event-based
-FSCom_JavaTut-10,4,3,1.0,event-based
-FSCom_JavaTut-11,3,3,0.5669999718666077,event-based
-FSCom_JavaTut-12,2,3,0.9990000128746033,event-based
-FSCom_JavaTut-13,2,3,0.9990000128746033,event-based
-FSCom_JavaTut-14,2,3,0.8399999737739563,event-based
-FSCom_JavaTut-15,2,3,0.9990000128746033,event-based
-FSCom_JavaTut-16,2,3,1.0,event-based
-FSCom_JavaTut-17,2,3,0.5210000276565552,event-based
-FSCom_JavaTut-2,31,1,1.0,message-based
-FSCom_JavaTut-3,15,1,0.8550000190734863,message-based
-FSCom_JavaTut-4,15,1,0.7239999771118164,message-based
-FSCom_JavaTut-5,3,3,1.0,event-based
-FSCom_JavaTut-6,3,3,0.7250000238418579,event-based
-FSCom_JavaTut-7,4,1,0.9990000128746033,message-based
-FSCom_JavaTut-8,2,1,0.9990000128746033,message-based
-FSCom_JavaTut-9,3,3,0.4749999940395355,event-based
-fwf-1,2,1,0.7879999876022339,message-based
-fwf-2,4,1,0.5400000214576721,message-based
-fwf-3,4,1,1.0,message-based
-fwf-4,3,3,0.7760000228881836,event-based
-fwf-5,4,1,0.8759999871253967,message-based
-fwf-6,3,3,0.5410000085830688,event-based
-fwf-7,1,1,0.8299999833106995,message-based
-fwf-8,2,3,0.9990000128746033,event-based
-fwf-9,3,3,0.4580000042915344,event-based
-gab-web-example-1,1,2,0.9980000257492065,object-based
-generator-example-1,2,1,0.9169999957084656,message-based
-Go-Dutch-1,7,3,1.0,event-based
-Go-Dutch-2,7,3,0.8889999985694885,event-based
-Go-Dutch-3,4,3,1.0,event-based
-Go-Dutch-4,2,3,0.8410000205039978,event-based
-google-sites-liberation-1,28,2,0.6039999723434448,object-based
-google-sites-liberation-10,3,2,0.9990000128746033,object-based
-google-sites-liberation-2,23,2,0.609000027179718,object-based
-google-sites-liberation-3,8,2,0.75,object-based
-google-sites-liberation-4,7,2,0.9190000295639038,object-based
-google-sites-liberation-5,17,2,0.675000011920929,object-based
-google-sites-liberation-6,5,2,0.7519999742507935,object-based
-google-sites-liberation-7,10,3,0.9049999713897705,event-based
-google-sites-liberation-8,10,2,0.652999997138977,object-based
-google-sites-liberation-9,2,3,0.9990000128746033,event-based
-google-wave-api-1,133,2,0.9940000176429749,object-based
-google-wave-api-10,2,1,1.0,message-based
-google-wave-api-11,2,3,0.550000011920929,event-based
-google-wave-api-12,2,2,0.9990000128746033,object-based
-google-wave-api-13,1,1,0.9990000128746033,message-based
-google-wave-api-14,7,2,0.9990000128746033,object-based
-google-wave-api-15,1,2,0.9990000128746033,object-based
-google-wave-api-16,1,2,0.9900000095367432,object-based
-google-wave-api-17,2,2,0.4410000145435333,object-based
-google-wave-api-18,1,2,0.6449999809265137,object-based
-google-wave-api-19,1,2,1.0,object-based
-google-wave-api-2,99,2,1.0,object-based
-google-wave-api-20,1,2,1.0,object-based
-google-wave-api-21,1,2,1.0,object-based
-google-wave-api-22,3,1,0.9980000257492065,message-based
-google-wave-api-23,1,1,0.9810000061988831,message-based
-google-wave-api-24,1,1,0.9810000061988831,message-based
-google-wave-api-3,113,2,0.9279999732971191,object-based
-google-wave-api-4,20,2,1.0,object-based
-google-wave-api-5,23,2,0.847000002861023,object-based
-google-wave-api-6,9,2,0.6589999794960022,object-based
-google-wave-api-7,9,2,1.0,object-based
-google-wave-api-8,6,2,0.3790000081062317,object-based
-google-wave-api-9,2,1,0.699999988079071,message-based
-GooGrade-1,16,3,0.718999981880188,event-based
-GooGrade-10,1,3,0.8579999804496765,event-based
-GooGrade-2,10,3,0.6489999890327454,event-based
-GooGrade-3,10,1,0.9319999814033508,message-based
-GooGrade-4,3,3,0.5460000038146973,event-based
-GooGrade-5,2,3,0.5090000033378601,event-based
-GooGrade-6,4,3,0.8370000123977661,event-based
-GooGrade-7,2,2,0.6150000095367432,object-based
-GooGrade-8,5,1,0.8140000104904175,message-based
-GooGrade-9,2,1,0.9629999995231628,message-based
-GoSupport-1,1,1,0.9779999852180481,message-based
-greensopinion.restexample-1,9,2,1.0,object-based
-greensopinion.restexample-2,1,2,1.0,object-based
-greensopinion.restexample-3,1,1,0.7110000252723694,message-based
-greensopinion.restexample-4,4,2,0.5649999976158142,object-based
-GridWorld-1,35,3,1.0,event-based
-GridWorld-2,3,3,1.0,event-based
-GridWorld-3,3,3,1.0,event-based
-GridWorld-4,6,3,1.0,event-based
-GridWorld-5,5,3,1.0,event-based
-GridWorld-6,1,3,1.0,event-based
-GridWorld-7,1,3,0.6840000152587891,event-based
-GridWorld-8,1,3,0.9990000128746033,event-based
-handwriting-1,15,2,0.7870000004768372,object-based
-handwriting-2,6,3,0.953000009059906,event-based
-handwriting-3,2,3,1.0,event-based
-hazelcast-actor-1,4,1,0.9459999799728394,message-based
-hazelcast-actor-2,6,1,0.7670000195503235,message-based
-hazelcast-actor-3,5,1,1.0,message-based
-hazelcast-actor-4,2,1,1.0,message-based
-hazelcast-actor-5,4,1,0.6930000185966492,message-based
-hbasene-1,10,3,0.4620000123977661,event-based
-hbasene-2,5,1,0.5260000228881836,message-based
-hbasene-3,1,2,0.6330000162124634,object-based
-hbasene-4,2,3,0.5590000152587891,event-based
-hbasene-5,4,1,0.5820000171661377,message-based
-hbasene-6,4,3,1.0,event-based
-hbasene-7,2,1,0.8610000014305115,message-based
-hbasene-8,2,2,0.4009999930858612,object-based
-heritrix-rest-client-1,3,2,0.8289999961853027,object-based
-heritrix3-1,446,2,0.9350000023841858,object-based
-heritrix3-10,2,2,0.6610000133514404,object-based
-heritrix3-11,2,1,0.5,message-based
-heritrix3-2,62,2,0.9789999723434448,object-based
-heritrix3-3,22,2,1.0,object-based
-heritrix3-4,38,2,1.0,object-based
-heritrix3-5,21,2,0.621999979019165,object-based
-heritrix3-6,3,2,0.8709999918937683,object-based
-heritrix3-7,1,2,0.9990000128746033,object-based
-heritrix3-8,1,2,0.9990000128746033,object-based
-heritrix3-9,1,2,0.7129999995231628,object-based
-httpbot-1,2,2,0.6740000247955322,object-based
-httpbot-2,1,2,1.0,object-based
-IconReader2-1,1,3,1.0,event-based
-ii2-gt-group-c-1,16,1,0.5440000295639038,message-based
-ii2-gt-group-c-2,4,3,0.6919999718666077,event-based
-ii2-gt-group-c-3,4,1,0.4410000145435333,message-based
-ii2-gt-group-c-4,6,2,0.41499999165534973,object-based
-ii2-gt-group-c-5,2,1,0.7559999823570251,message-based
-ii2-gt-group-c-6,6,2,1.0,object-based
-ii2-gt-group-c-7,5,2,1.0,object-based
-importscour-1,9,1,0.5619999766349792,message-based
-importscour-2,6,2,0.8899999856948853,object-based
-importscour-3,3,2,1.0,object-based
-importscour-4,2,3,0.7710000276565552,event-based
-importscour-5,3,2,0.9290000200271606,object-based
-importscour-6,2,2,0.9980000257492065,object-based
-IndepMod-1,49,3,1.0,event-based
-IndepMod-10,6,3,1.0,event-based
-IndepMod-11,18,3,1.0,event-based
-IndepMod-12,7,3,0.5820000171661377,event-based
-IndepMod-13,6,3,1.0,event-based
-IndepMod-14,5,3,1.0,event-based
-IndepMod-15,10,3,1.0,event-based
-IndepMod-16,10,3,1.0,event-based
-IndepMod-17,9,3,1.0,event-based
-IndepMod-18,6,3,1.0,event-based
-IndepMod-19,3,3,1.0,event-based
-IndepMod-2,11,3,1.0,event-based
-IndepMod-20,7,3,1.0,event-based
-IndepMod-21,5,3,0.906000018119812,event-based
-IndepMod-22,4,3,1.0,event-based
-IndepMod-23,6,3,0.9449999928474426,event-based
-IndepMod-24,5,3,1.0,event-based
-IndepMod-25,3,3,1.0,event-based
-IndepMod-26,3,3,1.0,event-based
-IndepMod-27,3,3,1.0,event-based
-IndepMod-28,3,3,1.0,event-based
-IndepMod-29,3,3,1.0,event-based
-IndepMod-3,15,3,1.0,event-based
-IndepMod-30,4,3,1.0,event-based
-IndepMod-31,2,3,1.0,event-based
-IndepMod-32,5,3,1.0,event-based
-IndepMod-33,3,3,1.0,event-based
-IndepMod-34,6,3,1.0,event-based
-IndepMod-35,5,3,1.0,event-based
-IndepMod-36,1,3,1.0,event-based
-IndepMod-37,2,3,0.9990000128746033,event-based
-IndepMod-4,3,3,1.0,event-based
-IndepMod-5,8,1,0.5669999718666077,message-based
-IndepMod-6,28,3,1.0,event-based
-IndepMod-7,11,3,1.0,event-based
-IndepMod-8,15,3,1.0,event-based
-IndepMod-9,7,3,1.0,event-based
-instant-ws-example-1,2,1,0.9990000128746033,message-based
-instant-ws-example-2,2,1,1.0,message-based
-isbndb-api-1,8,1,1.0,message-based
-isbndb-api-2,6,1,1.0,message-based
-isbndb-api-3,3,1,0.7020000219345093,message-based
-isbndb-api-4,2,2,0.640999972820282,object-based
-jacorb-1,1438,2,0.9319999814033508,object-based
-jacorb-2,301,2,0.6769999861717224,object-based
-jacorb-3,123,2,1.0,object-based
-jacorb-4,12,2,1.0,object-based
-jacorb-5,1,2,0.9990000128746033,object-based
-jacorb-6,4,1,0.9990000128746033,message-based
-jacorb-7,2,3,0.5329999923706055,event-based
-jastadd-tags-1,3,3,0.550000011920929,event-based
-jastadd-tags-2,3,1,0.5910000205039978,message-based
-java-campussearch-1,6,1,0.5479999780654907,message-based
-java-hstore-1,9,2,1.0,object-based
-java-hstore-2,5,2,0.847000002861023,object-based
-java-hstore-3,3,2,1.0,object-based
-java-hstore-4,4,2,1.0,object-based
-java-hstore-5,2,2,1.0,object-based
-java-hstore-6,1,2,0.9990000128746033,object-based
-java-hstore-7,1,2,0.6299999952316284,object-based
-java-hstore-sample-1,4,2,1.0,object-based
-java-hstore-sample-2,3,2,1.0,object-based
-java-mime-multipart-mixed-1,8,2,1.0,object-based
-java-mime-multipart-mixed-2,4,2,1.0,object-based
-JavaFileSync-1,3,2,0.8259999752044678,object-based
-JavAkinator-1,3,1,0.7979999780654907,message-based
-javamidi-1,6,2,1.0,object-based
-java_deps-1,363,2,0.6169999837875366,object-based
-java_deps-2,236,2,0.953000009059906,object-based
-java_deps-3,3,1,0.9990000128746033,message-based
-java_deps-4,1,2,0.546999990940094,object-based
-jboss-beans-jndi-example-1,3,2,0.3779999911785126,object-based
-jdbc-perf-wrapper-1,3,1,1.0,message-based
-jdbc-perf-wrapper-2,3,1,0.9470000267028809,message-based
-jdbc-perf-wrapper-3,1,1,0.5270000100135803,message-based
-jdbc-perf-wrapper-4,1,1,1.0,message-based
-JGit-1,525,3,0.7440000176429749,event-based
-JGit-2,16,2,0.718999981880188,object-based
-jgit-simple-1,8,3,0.5609999895095825,event-based
-jsqueeze-1,21,3,0.7360000014305115,event-based
-jsqueeze-2,12,3,0.6000000238418579,event-based
-jsqueeze-3,25,1,0.7929999828338623,message-based
-jsqueeze-4,12,1,0.847000002861023,message-based
-jsqueeze-5,4,1,0.5120000243186951,message-based
-jsqueeze-6,4,1,0.6650000214576721,message-based
-jsst-1,8,1,0.8659999966621399,message-based
-jsst-2,7,1,1.0,message-based
-jsst-3,3,1,1.0,message-based
-jsst-4,2,1,0.9990000128746033,message-based
-JsTestDriver-1,10,2,0.9190000295639038,object-based
-JsTestDriver-10,2,2,0.6909999847412109,object-based
-JsTestDriver-11,2,1,0.9990000128746033,message-based
-JsTestDriver-12,2,1,0.7609999775886536,message-based
-JsTestDriver-13,1,3,0.9990000128746033,event-based
-JsTestDriver-14,2,1,0.9990000128746033,message-based
-JsTestDriver-15,2,1,0.9860000014305115,message-based
-JsTestDriver-16,2,2,0.6430000066757202,object-based
-JsTestDriver-17,2,2,0.9990000128746033,object-based
-JsTestDriver-2,19,1,1.0,message-based
-JsTestDriver-3,22,1,0.5189999938011169,message-based
-JsTestDriver-4,6,1,0.8980000019073486,message-based
-JsTestDriver-5,9,1,1.0,message-based
-JsTestDriver-6,8,1,1.0,message-based
-JsTestDriver-7,14,1,0.9539999961853027,message-based
-JsTestDriver-8,3,1,1.0,message-based
-JsTestDriver-9,1,3,1.0,event-based
-jtcaggr-1,27,2,0.6119999885559082,object-based
-jtcaggr-2,14,2,0.8199999928474426,object-based
-jtcaggr-3,14,1,0.5600000023841858,message-based
-jtcaggr-4,12,1,0.6309999823570251,message-based
-jtcaggr-5,4,2,0.6520000100135803,object-based
-jtcaggr-6,6,1,0.75,message-based
-jtcaggr-7,2,1,0.8859999775886536,message-based
-klotski-1,10,2,0.8989999890327454,object-based
-klotski-2,3,1,0.8989999890327454,message-based
-kramer-1,12,1,0.9319999814033508,message-based
-kramer-2,2,1,0.8510000109672546,message-based
-kramer-3,2,2,0.9990000128746033,object-based
-ldapcon2009-apache-directory-1,4,2,0.44600000977516174,object-based
-ldapcon2009-datanucleus-1,14,3,0.6480000019073486,event-based
-ldapcon2009-datanucleus-2,9,3,0.796999990940094,event-based
-ldapcon2009-datanucleus-3,5,3,0.46799999475479126,event-based
-ldapcon2009-datanucleus-4,4,3,0.875,event-based
-ldapcon2009-datanucleus-5,2,2,0.9990000128746033,object-based
-libreadline-java-mac-1,10,1,0.628000020980835,message-based
-libreadline-java-mac-2,1,2,0.5289999842643738,object-based
-life-1,4,3,1.0,event-based
-limewire-1,1896,1,0.9980000257492065,message-based
-limewire-10,8,2,0.9399999976158142,object-based
-limewire-11,4,1,0.5809999704360962,message-based
-limewire-12,1,1,0.6909999847412109,message-based
-limewire-13,3,1,0.7149999737739563,message-based
-limewire-14,1,1,0.7620000243186951,message-based
-limewire-15,1,3,0.9990000128746033,event-based
-limewire-16,1,1,0.9950000047683716,message-based
-limewire-17,1,2,0.875,object-based
-limewire-18,1,1,0.9990000128746033,message-based
-limewire-19,1,3,1.0,event-based
-limewire-2,773,3,0.9890000224113464,event-based
-limewire-20,2,1,1.0,message-based
-limewire-21,2,3,0.9990000128746033,event-based
-limewire-22,2,3,0.9990000128746033,event-based
-limewire-3,653,3,0.7699999809265137,event-based
-limewire-4,281,1,1.0,message-based
-limewire-5,384,1,0.5479999780654907,message-based
-limewire-6,152,1,0.5580000281333923,message-based
-limewire-7,187,1,1.0,message-based
-limewire-8,37,1,1.0,message-based
-limewire-9,31,1,0.7870000004768372,message-based
-linkdroid-1,6,2,0.5830000042915344,object-based
-linkdroid-2,8,2,0.7110000252723694,object-based
-linkdroid-3,4,2,0.6100000143051147,object-based
-linkdroid-4,3,2,1.0,object-based
-linkdroid-5,2,2,0.9139999747276306,object-based
-linkdroid-6,2,2,0.9549999833106995,object-based
-linkdroid-7,4,2,0.5419999957084656,object-based
-maven-guide-de-1,9,1,1.0,message-based
-maven-guide-de-2,8,1,1.0,message-based
-maven-guide-de-3,3,1,0.6150000095367432,message-based
-maven-guide-zh-1,9,1,1.0,message-based
-maven-guide-zh-2,8,1,1.0,message-based
-maven-guide-zh-3,3,1,0.6150000095367432,message-based
-mbook-1,2,1,0.9980000257492065,message-based
-media_compressor-1,10,2,1.0,object-based
-megaware_dataencrypter-1,10,3,1.0,event-based
-megaware_dataencrypter-2,9,1,0.38199999928474426,message-based
-megaware_dataencrypter-3,4,3,0.8330000042915344,event-based
-megaware_dataencrypter-4,3,3,1.0,event-based
-messenger-sdk-1,27,1,0.8799999952316284,message-based
-messenger-sdk-10,2,2,0.7860000133514404,object-based
-messenger-sdk-11,2,3,0.6790000200271606,event-based
-messenger-sdk-2,12,1,0.5989999771118164,message-based
-messenger-sdk-3,7,1,0.8399999737739563,message-based
-messenger-sdk-4,4,3,0.5460000038146973,event-based
-messenger-sdk-5,7,1,0.8349999785423279,message-based
-messenger-sdk-6,3,1,1.0,message-based
-messenger-sdk-7,2,1,1.0,message-based
-messenger-sdk-8,3,1,0.8700000047683716,message-based
-messenger-sdk-9,3,1,0.7760000228881836,message-based
-mirinae-swissknife-1,2,3,1.0,event-based
-mmfplanner-1,30,3,1.0,event-based
-mmfplanner-2,27,3,1.0,event-based
-mmfplanner-3,6,3,1.0,event-based
-mmfplanner-4,5,3,1.0,event-based
-mmfplanner-5,3,3,1.0,event-based
-mmfplanner-6,3,3,1.0,event-based
-mmfplanner-7,4,3,0.8619999885559082,event-based
-mmfplanner-8,4,3,1.0,event-based
-mobile-banking-webui-1,10,1,1.0,message-based
-mobile-banking-webui-2,13,1,1.0,message-based
-mobile-banking-webui-3,7,1,0.9020000100135803,message-based
-mobile-banking-webui-4,7,1,0.7820000052452087,message-based
-mobile-banking-webui-5,2,3,1.0,event-based
-mobile-banking-webui-6,2,1,0.9980000257492065,message-based
-mobile-banking-webui-7,2,1,0.8230000138282776,message-based
-mobile-banking-webui-8,2,1,0.8500000238418579,message-based
-MobileEye-1,10,3,1.0,event-based
-MobileEye-2,3,3,0.9729999899864197,event-based
-MobileEye-3,8,3,0.6000000238418579,event-based
-MobileEye-4,6,3,1.0,event-based
-moby-1,477,2,1.0,object-based
-moby-2,126,3,0.7599999904632568,event-based
-moby-3,9,3,0.5350000262260437,event-based
-moby-4,9,2,0.5419999957084656,object-based
-moby-5,2,3,0.8479999899864197,event-based
-moby-6,2,3,0.9990000128746033,event-based
-moby-7,2,1,0.996999979019165,message-based
-MultiAPIDemo-1,5,1,0.6700000166893005,message-based
-MultiAPIDemo-2,1,3,0.7829999923706055,event-based
-MultiAPIDemo-3,3,3,0.8389999866485596,event-based
-MusicQuiz-1,4,3,0.6909999847412109,event-based
-MusicQuiz-2,4,3,1.0,event-based
-MusicQuiz-3,3,3,1.0,event-based
-MusicQuiz-4,4,3,1.0,event-based
-namqp-1,67,2,0.8009999990463257,object-based
-namqp-2,17,2,0.6650000214576721,object-based
-namqp-3,9,2,0.6480000019073486,object-based
-namqp-4,7,2,1.0,object-based
-namqp-5,3,1,0.6230000257492065,message-based
-namqp-6,4,1,0.5889999866485596,message-based
-NetConnect-1,16,2,0.5149999856948853,object-based
-NetConnect-2,3,3,0.546999990940094,event-based
-ngMUD-1,9,1,0.9449999928474426,message-based
-ngMUD-2,4,2,0.4339999854564667,object-based
-ngMUD-3,2,2,1.0,object-based
-ngMUD-4,2,3,0.9990000128746033,event-based
-observer-1,5,1,0.8579999804496765,message-based
-observer-2,1,2,0.4490000009536743,object-based
-ogc-1,42,2,0.7329999804496765,object-based
-ogc-2,59,2,1.0,object-based
-ogc-3,9,2,0.5220000147819519,object-based
-ogc-4,8,2,1.0,object-based
-ogc-5,10,2,1.0,object-based
-ogc-6,7,1,0.652999997138977,message-based
-ogc-7,4,1,0.9990000128746033,message-based
-openamq-jms-1,132,1,0.4490000009536743,message-based
-openamq-jms-2,7,1,1.0,message-based
-openamq-jms-3,16,1,0.8379999995231628,message-based
-openaustraliasearchdroid-1,5,3,1.0,event-based
-openaustraliasearchdroid-2,2,3,0.6850000023841858,event-based
-openaustraliasearchdroid-3,3,2,0.5329999923706055,object-based
-openaustraliasearchdroid-4,2,3,0.7149999737739563,event-based
-Openbravo-1,538,1,0.5230000019073486,message-based
-Openbravo-10,1,1,0.6830000281333923,message-based
-Openbravo-11,2,2,1.0,object-based
-Openbravo-12,2,1,0.5519999861717224,message-based
-Openbravo-13,1,3,1.0,event-based
-Openbravo-14,2,2,0.9990000128746033,object-based
-Openbravo-2,29,1,0.7369999885559082,message-based
-Openbravo-3,30,2,0.6349999904632568,object-based
-Openbravo-4,3,1,0.5580000281333923,message-based
-Openbravo-5,13,1,0.4830000102519989,message-based
-Openbravo-6,6,1,0.8159999847412109,message-based
-Openbravo-7,9,1,0.7009999752044678,message-based
-Openbravo-8,6,1,0.7820000052452087,message-based
-Openbravo-9,4,1,0.9089999794960022,message-based
-OpenLBS-Android-1,11,3,0.6700000166893005,event-based
-OpenLBS-Android-2,10,3,0.972000002861023,event-based
-OpenLBS-Android-3,3,3,0.5559999942779541,event-based
-OpenLBS-Android-4,1,1,1.0,message-based
-openshapa-plugin-dev-guide-1,5,3,0.8479999899864197,event-based
-opensourcedebugging-1,13,3,0.8050000071525574,event-based
-opensourcedebugging-2,3,3,0.6899999976158142,event-based
-opensourcedebuggingjava-1,2,2,0.5400000214576721,object-based
-org.eclipselabs.p2.rcpupdate-1,3,3,0.5490000247955322,event-based
-org.eclipselabs.p2.rcpupdate-2,1,2,0.5479999780654907,object-based
-org.eclipselabs.p2.rcpupdate-3,2,3,0.9990000128746033,event-based
-OS.Build-Reader-1,1,3,1.0,event-based
-packetspy-1,10,1,0.8450000286102295,message-based
-packetspy-2,2,2,0.9990000128746033,object-based
-packetspy-3,2,1,0.7350000143051147,message-based
-packetspy-4,5,1,0.7649999856948853,message-based
-paraDemo-1,41,2,1.0,object-based
-paraDemo-2,33,2,0.4959999918937683,object-based
-paraDemo-3,24,2,1.0,object-based
-paraDemo-4,3,2,0.5210000276565552,object-based
-paraDemo-5,1,2,0.5669999718666077,object-based
-parallelpaint-server-1,9,2,0.5770000219345093,object-based
-parallelpaint-server-2,8,1,1.0,message-based
-patched-xfire-1,66,1,0.6700000166893005,message-based
-patched-xfire-10,8,1,1.0,message-based
-patched-xfire-11,7,1,0.906000018119812,message-based
-patched-xfire-12,13,2,1.0,object-based
-patched-xfire-13,2,2,1.0,object-based
-patched-xfire-14,5,2,0.7639999985694885,object-based
-patched-xfire-15,2,2,1.0,object-based
-patched-xfire-16,1,1,0.9990000128746033,message-based
-patched-xfire-17,3,2,0.652999997138977,object-based
-patched-xfire-18,3,3,0.5149999856948853,event-based
-patched-xfire-19,6,2,0.6209999918937683,object-based
-patched-xfire-2,60,1,0.8970000147819519,message-based
-patched-xfire-20,1,2,0.5270000100135803,object-based
-patched-xfire-21,4,2,1.0,object-based
-patched-xfire-22,2,2,0.9990000128746033,object-based
-patched-xfire-23,3,2,1.0,object-based
-patched-xfire-24,2,2,0.6050000190734863,object-based
-patched-xfire-25,2,2,0.9990000128746033,object-based
-patched-xfire-26,2,1,0.9959999918937683,message-based
-patched-xfire-27,2,1,0.9980000257492065,message-based
-patched-xfire-3,18,2,0.5509999990463257,object-based
-patched-xfire-4,29,1,0.5849999785423279,message-based
-patched-xfire-5,25,1,0.9350000023841858,message-based
-patched-xfire-6,22,1,0.7200000286102295,message-based
-patched-xfire-7,8,2,0.5730000138282776,object-based
-patched-xfire-8,8,2,0.9120000004768372,object-based
-patched-xfire-9,10,2,0.7210000157356262,object-based
-pctDroidApp-1,6,2,0.7379999756813049,object-based
-pctDroidApp-2,2,3,0.9990000128746033,event-based
-PermissionReader-1,1,3,1.0,event-based
-play-user-sample-1,2,3,0.6850000023841858,event-based
-plexus-component-factories-1,4,2,0.6850000023841858,object-based
-plexus-component-factories-2,2,3,0.9959999918937683,event-based
-plexus-component-factories-3,2,2,0.5630000233650208,object-based
-pocker-e-sueca-1,8,2,1.0,object-based
-pocker-e-sueca-2,6,2,0.8790000081062317,object-based
-pocker-e-sueca-3,7,2,1.0,object-based
-pocker-e-sueca-4,4,2,1.0,object-based
-pocker-e-sueca-5,5,2,1.0,object-based
-pocker-e-sueca-6,3,3,0.5450000166893005,event-based
-post-to-friendfeed-1,7,2,0.5730000138282776,object-based
-post-to-friendfeed-2,4,2,0.921999990940094,object-based
-Processing.py-Eclipse-Launcher-1,3,3,0.8450000286102295,event-based
-ptc-1,10,3,1.0,event-based
-pushr-for-android-1,6,1,0.7300000190734863,message-based
-pushr-for-android-2,2,2,0.6299999952316284,object-based
-pushr-for-android-3,3,2,0.531000018119812,object-based
-pushr-for-android-4,3,3,0.4699999988079071,event-based
-pushr-for-android-5,2,2,0.9980000257492065,object-based
-rcputils-1,11,3,0.6389999985694885,event-based
-rcputils-2,10,2,0.527999997138977,object-based
-rcputils-3,6,3,0.8679999709129333,event-based
-rcputils-4,3,2,1.0,object-based
-rcputils-5,6,3,1.0,event-based
-rcputils-6,1,3,0.996999979019165,event-based
-rcputils-7,1,2,0.9990000128746033,object-based
-rcputils-8,1,3,0.6909999847412109,event-based
-rdf-order-1,3,2,0.6320000290870667,object-based
-redmineissuedumptool-1,1,1,0.8500000238418579,message-based
-rest-demo-1,5,1,0.8669999837875366,message-based
-rest-demo-2,2,1,0.9990000128746033,message-based
-RESTling-1,20,1,0.7639999985694885,message-based
-RESTling-2,19,1,0.6520000100135803,message-based
-RESTling-3,2,2,0.7570000290870667,object-based
-RESTling-4,2,2,0.6230000257492065,object-based
-RESTling-5,2,2,1.0,object-based
-restunit-1,25,1,0.9860000014305115,message-based
-restunit-2,7,1,1.0,message-based
-restunit-3,8,1,0.5820000171661377,message-based
-satellite-1,3,1,1.0,message-based
-satellite-2,2,1,0.550000011920929,message-based
-scorm2fedora-1,7,3,0.5019999742507935,event-based
-scorm2fedora-2,3,3,0.9990000128746033,event-based
-shmrj-1,6,2,1.0,object-based
-shore-1,16,2,0.5389999747276306,object-based
-shore-2,6,1,0.7239999771118164,message-based
-shore-3,2,2,1.0,object-based
-shore-4,2,1,1.0,message-based
-shorterPacketTester-1,5,1,0.7390000224113464,message-based
-skoly-1,7,3,0.5389999747276306,event-based
-skoly-10,2,1,0.9980000257492065,message-based
-skoly-11,1,3,0.902999997138977,event-based
-skoly-12,1,3,0.902999997138977,event-based
-skoly-13,2,2,0.6949999928474426,object-based
-skoly-2,13,1,1.0,message-based
-skoly-3,1,3,0.871999979019165,event-based
-skoly-4,5,1,0.9340000152587891,message-based
-skoly-5,1,3,0.902999997138977,event-based
-skoly-6,8,3,0.8529999852180481,event-based
-skoly-7,3,3,1.0,event-based
-skoly-8,2,3,0.8759999871253967,event-based
-skoly-9,3,1,0.5540000200271606,message-based
-SOAP-1,17,1,1.0,message-based
-SOAP-2,14,1,0.5929999947547913,message-based
-SOAP-3,2,3,0.527999997138977,event-based
-spring-hibernate-startup-1,4,1,0.9509999752044678,message-based
-spring-hibernate-startup-2,2,1,0.7730000019073486,message-based
-statusbarCompass-1,5,2,0.5630000233650208,object-based
-studium_info-1,30,3,1.0,event-based
-studium_info-2,34,2,1.0,object-based
-studium_info-3,6,2,0.8190000057220459,object-based
-studium_info-4,2,2,0.9990000128746033,object-based
-studium_info-5,10,1,0.9549999833106995,message-based
-studium_info-6,3,2,0.9980000257492065,object-based
-studium_info-7,2,3,0.9900000095367432,event-based
-studium_info-8,2,3,0.9900000095367432,event-based
-sudo-ku-1,2,3,0.7760000228881836,event-based
-sudo-ku-2,3,3,0.7110000252723694,event-based
-sudo-ku-3,3,3,0.9990000128746033,event-based
-swinkar-1,5,3,0.9810000061988831,event-based
-swinkar-2,4,3,1.0,event-based
-swtbot-original-1,301,3,1.0,event-based
-swtbot-original-10,9,3,0.9110000133514404,event-based
-swtbot-original-11,11,3,1.0,event-based
-swtbot-original-12,2,2,0.5210000276565552,object-based
-swtbot-original-13,2,2,0.9990000128746033,object-based
-swtbot-original-14,4,3,1.0,event-based
-swtbot-original-15,6,3,0.6840000152587891,event-based
-swtbot-original-16,2,3,1.0,event-based
-swtbot-original-17,1,3,1.0,event-based
-swtbot-original-18,1,3,0.5419999957084656,event-based
-swtbot-original-19,1,2,0.5080000162124634,object-based
-swtbot-original-2,44,3,1.0,event-based
-swtbot-original-20,2,1,0.597000002861023,message-based
-swtbot-original-21,2,1,0.597000002861023,message-based
-swtbot-original-22,1,3,1.0,event-based
-swtbot-original-23,1,2,0.7360000014305115,object-based
-swtbot-original-24,2,3,0.9990000128746033,event-based
-swtbot-original-25,2,2,0.6610000133514404,object-based
-swtbot-original-26,2,3,0.6970000267028809,event-based
-swtbot-original-3,120,3,1.0,event-based
-swtbot-original-4,37,3,1.0,event-based
-swtbot-original-5,31,3,1.0,event-based
-swtbot-original-6,22,2,0.796999990940094,object-based
-swtbot-original-7,6,3,1.0,event-based
-swtbot-original-8,10,2,0.5580000281333923,object-based
-swtbot-original-9,2,3,1.0,event-based
-swtxml-1,22,2,1.0,object-based
-swtxml-10,4,3,1.0,event-based
-swtxml-11,2,2,1.0,object-based
-swtxml-12,3,2,0.9990000128746033,object-based
-swtxml-13,2,2,0.6970000267028809,object-based
-swtxml-14,3,2,0.9990000128746033,object-based
-swtxml-15,3,3,0.5139999985694885,event-based
-swtxml-16,5,3,1.0,event-based
-swtxml-17,5,3,0.7590000033378601,event-based
-swtxml-18,3,2,0.9990000128746033,object-based
-swtxml-19,2,3,1.0,event-based
-swtxml-2,19,2,0.7519999742507935,object-based
-swtxml-20,3,3,0.6140000224113464,event-based
-swtxml-3,18,2,0.6869999766349792,object-based
-swtxml-4,19,1,0.5989999771118164,message-based
-swtxml-5,7,2,0.6759999990463257,object-based
-swtxml-6,3,2,0.5540000200271606,object-based
-swtxml-7,11,3,0.8600000143051147,event-based
-swtxml-8,6,2,0.5009999871253967,object-based
-swtxml-9,7,3,0.527999997138977,event-based
-TaskTrckr-1,16,3,0.9950000047683716,event-based
-TaskTrckr-2,3,2,0.8830000162124634,object-based
-TaskTrckr-3,2,3,1.0,event-based
-Tetris-1,5,1,0.6370000243186951,message-based
-Tetris-2,5,1,0.7789999842643738,message-based
-Tetris-3,5,1,0.7590000033378601,message-based
-Tetris-4,2,1,0.6639999747276306,message-based
-Tetris-5,2,3,0.8989999890327454,event-based
-Tetris-6,7,3,0.5569999814033508,event-based
-Tetris-7,3,1,0.6389999985694885,message-based
-Tetris-8,2,3,0.9990000128746033,event-based
-textproto-1,2,3,0.9980000257492065,event-based
-thrudb-java-1,14,1,1.0,message-based
-thrudb-java-2,17,1,1.0,message-based
-thrudb-java-3,11,1,0.6909999847412109,message-based
-thrudb-java-4,1,1,1.0,message-based
-thunk-1,5,1,1.0,message-based
-thunk-2,2,1,0.9990000128746033,message-based
-thunk-3,2,1,0.9980000257492065,message-based
-thunk-4,1,1,0.9980000257492065,message-based
-thunk-5,1,1,0.9980000257492065,message-based
-thunk-6,1,1,0.9980000257492065,message-based
-thunk-7,1,1,0.7089999914169312,message-based
-tohu-generator-1,6,1,0.8579999804496765,message-based
-translator-1,2,3,0.9990000128746033,event-based
-translator-2,2,3,0.9990000128746033,event-based
-twiterra-1,425,3,0.9879999756813049,event-based
-twiterra-2,202,1,0.968999981880188,message-based
-twiterra-3,50,3,0.9869999885559082,event-based
-twiterra-4,2,3,1.0,event-based
-Twitter-1,50,3,0.9210000038146973,event-based
-Twitter-2,14,3,1.0,event-based
-TwitterEvents-1,7,3,0.800000011920929,event-based
-Usherb-IFT585-TP1-Link-layer-1,14,1,0.6930000185966492,message-based
-Usherb-IFT585-TP1-Link-layer-2,7,3,0.5249999761581421,event-based
-Usherb-IFT585-TP1-Link-layer-3,4,3,0.515999972820282,event-based
-Usherb-IFT585-TP1-Link-layer-4,3,2,1.0,object-based
-Util-1,2,3,0.9980000257492065,event-based
-valipse-1,9,1,0.550000011920929,message-based
-valipse-2,8,2,0.41600000858306885,object-based
-valipse-3,3,3,0.8820000290870667,event-based
-vldocking-1,93,3,1.0,event-based
-vldocking-2,18,3,1.0,event-based
-vldocking-3,1,3,1.0,event-based
-voldemort-sets-1,1,2,1.0,object-based
-voldemort-sets-10,5,2,0.902999997138977,object-based
-voldemort-sets-2,2,2,1.0,object-based
-voldemort-sets-3,2,2,1.0,object-based
-voldemort-sets-4,1,2,1.0,object-based
-voldemort-sets-5,1,2,1.0,object-based
-voldemort-sets-6,1,2,1.0,object-based
-voldemort-sets-7,1,2,0.5630000233650208,object-based
-voldemort-sets-8,5,2,0.5580000281333923,object-based
-voldemort-sets-9,4,1,0.6460000276565552,message-based
-wagon-jetty-1,6,1,0.5619999766349792,message-based
-wagon-jetty-2,8,1,0.671999990940094,message-based
-wagon-jetty-3,3,1,0.6579999923706055,message-based
-wagon-jetty-4,1,1,0.6420000195503235,message-based
-Wajavassr-1,4,1,0.5170000195503235,message-based
-website-legacy-1,13,3,0.3610000014305115,event-based
-XMLEditor-1,20,3,1.0,event-based
-XMLEditor-2,7,2,0.8569999933242798,object-based
-XMLEditor-3,1,2,0.9959999918937683,object-based
-XMLEditor-4,1,2,0.996999979019165,object-based
-XMLEditor-5,1,3,1.0,event-based
-XMLEditor-6,2,3,0.7260000109672546,event-based
-xmlson-1,5,2,1.0,object-based
-xmlson-2,8,2,1.0,object-based
-xmlson-3,3,2,0.9990000128746033,object-based
-xmlson-4,2,2,0.9990000128746033,object-based
-xmlson-5,2,2,0.9990000128746033,object-based
-xmlson-6,2,2,0.9990000128746033,object-based
-ymail-javamail-1,18,2,1.0,object-based
-ymail-javamail-2,8,1,0.7360000014305115,message-based
-ymail-javamail-3,1,2,0.9539999961853027,object-based
-ymail-javamail-4,4,1,0.5799999833106995,message-based
-ymail-javamail-5,1,2,0.9990000128746033,object-based
-ymail-javamail-6,2,2,0.6159999966621399,object-based
+Component,Dominant_topic_cluster(s),Perc_contribution
+15puzzle-1,message-based / event-based,0.9999746084213257
+15puzzle-2,event-based / message-based,0.9999045729637146
+15puzzle-3,message-based,0.8520449995994568
+Aladyn-1,object-based,0.9995919466018677
+Aladyn-2,object-based,0.9996479153633118
+Aladyn-3,object-based,0.9990893006324768
+Aladyn-4,object-based,0.9986677765846252
+Aladyn-5,object-based,0.9983359575271606
+Beta-SMS-1,object-based / message-based,0.8187393248081207
+Beta-SMS-2,message-based / object-based,0.9999135434627533
+Beta-SMS-3,event-based / message-based,0.9906086027622223
+Beta-SMS-4,message-based / object-based,0.9999264478683472
+Beta-SMS-5,object-based,0.8949865102767944
+Beta-SMS-6,message-based / event-based,0.9998549818992615
+Binomial-Distribution-1,message-based,0.7927976846694946
+BlueTerm-1,event-based,0.7663654088973999
+CAR-1,object-based,0.9999553561210632
+CAR-2,object-based,0.9998700022697449
+CAR-3,object-based,0.9999482035636902
+CAR-4,object-based,0.9989452362060547
+CAR-5,object-based,0.9997361302375793
+CAR-6,object-based,0.936688244342804
+CAR-7,object-based,0.9996077418327332
+CAR-8,object-based,0.999000608921051
+ColaPop-1,message-based,0.9998549818992615
+ColaPop-2,object-based,0.7528898119926453
+ColaPop-3,message-based,0.9997221231460571
+ColaPop-4,object-based,0.9993746280670166
+ColaPop-5,object-based,0.9990484118461609
+ColaPop-6,message-based,0.999512255191803
+ColaPop-7,message-based,0.9975090622901917
+Dessolation-Messenger-of-Disservice-1,event-based / message-based,0.9999400675296783
+DroidStats-1,event-based,0.8338961005210876
+Example-CRM-Oracle-OnDemand-with-Java-1,object-based,0.8744295239448547
+Example-CRM-Oracle-OnDemand-with-Java-2,message-based,0.8093523979187012
+FSCom_JavaTut-1,event-based,0.778957724571228
+FSCom_JavaTut-10,event-based,0.9996715188026428
+FSCom_JavaTut-11,event-based / message-based,0.9997032880783081
+FSCom_JavaTut-12,event-based,0.9985738396644592
+FSCom_JavaTut-13,event-based,0.9992004036903381
+FSCom_JavaTut-14,event-based,0.8403347730636597
+FSCom_JavaTut-15,event-based,0.9991310834884644
+FSCom_JavaTut-16,event-based,0.9995335936546326
+FSCom_JavaTut-17,event-based / message-based,0.9994087219238281
+FSCom_JavaTut-2,message-based,0.9999335408210754
+FSCom_JavaTut-3,message-based,0.8551238775253296
+FSCom_JavaTut-4,message-based / event-based,0.9200011044740677
+FSCom_JavaTut-5,event-based,0.9996426105499268
+FSCom_JavaTut-6,event-based / message-based,0.9998607933521271
+FSCom_JavaTut-7,message-based,0.9989992380142212
+FSCom_JavaTut-8,message-based,0.9990902543067932
+FSCom_JavaTut-9,event-based / message-based,0.8515808582305908
+FerramentasProfessor-1,message-based,0.9999075531959534
+FrontlineSMS-Forms-1,message-based,0.7509204745292664
+FrontlineSMS-Forms-2,event-based,0.9999648928642273
+FrontlineSMS-Forms-3,message-based,0.9794161319732666
+FrontlineSMS-Forms-4,event-based,0.9999009370803833
+FrontlineSMS-Forms-5,message-based,0.9998424649238586
+Go-Dutch-1,event-based,0.9999464154243469
+Go-Dutch-2,event-based,0.8890388607978821
+Go-Dutch-3,event-based,0.9999390244483948
+Go-Dutch-4,event-based,0.8410701751708984
+GoSupport-1,message-based,0.978308379650116
+GooGrade-1,event-based / message-based,0.9641217887401581
+GooGrade-10,event-based,0.8583785891532898
+GooGrade-2,event-based / message-based,0.999975711107254
+GooGrade-3,message-based,0.9322038888931274
+GooGrade-4,event-based / message-based,0.9304714500904083
+GooGrade-5,event-based / message-based,0.9999205768108368
+GooGrade-6,event-based,0.837474524974823
+GooGrade-7,object-based / event-based,0.9995828568935394
+GooGrade-8,message-based,0.8145647048950195
+GooGrade-9,message-based,0.9634537100791931
+GridWorld-1,event-based,0.9999722242355347
+GridWorld-2,event-based,0.9999375343322754
+GridWorld-3,event-based,0.9999436736106873
+GridWorld-4,event-based,0.9996483325958252
+GridWorld-5,event-based,0.9998130798339844
+GridWorld-6,event-based,0.999687671661377
+GridWorld-7,event-based / message-based,0.9996662735939026
+GridWorld-8,event-based,0.9994588494300842
+IconReader2-1,event-based,0.9997469186782837
+IndepMod-1,event-based,0.9999945759773254
+IndepMod-10,event-based,0.9999815821647644
+IndepMod-11,event-based,0.9999693036079407
+IndepMod-12,event-based / object-based,0.9089100062847137
+IndepMod-13,event-based,0.9999707341194153
+IndepMod-14,event-based,0.9999473690986633
+IndepMod-15,event-based,0.9999698996543884
+IndepMod-16,event-based,0.999958336353302
+IndepMod-17,event-based,0.9999661445617676
+IndepMod-18,event-based,0.9999411702156067
+IndepMod-19,event-based,0.9999265074729919
+IndepMod-2,event-based,0.9999755620956421
+IndepMod-20,event-based,0.9999315142631531
+IndepMod-21,event-based,0.9065888524055481
+IndepMod-22,event-based,0.9999151825904846
+IndepMod-23,event-based,0.9446243643760681
+IndepMod-24,event-based,0.9999438524246216
+IndepMod-25,event-based,0.9999359250068665
+IndepMod-26,event-based,0.9999436736106873
+IndepMod-27,event-based,0.9996922016143799
+IndepMod-28,event-based,0.9998261332511902
+IndepMod-29,event-based,0.9999082088470459
+IndepMod-3,event-based,0.9999840259552002
+IndepMod-30,event-based,0.9998692870140076
+IndepMod-31,event-based,0.9997938871383667
+IndepMod-32,event-based,0.9998764991760254
+IndepMod-33,event-based,0.9995919466018677
+IndepMod-34,event-based,0.9998539686203003
+IndepMod-35,event-based,0.9998461604118347
+IndepMod-36,event-based,0.999523937702179
+IndepMod-37,event-based,0.9994121789932251
+IndepMod-4,event-based,0.9999462366104126
+IndepMod-5,message-based / event-based,0.8218373358249664
+IndepMod-6,event-based,0.9999805092811584
+IndepMod-7,event-based,0.9999773502349854
+IndepMod-8,event-based,0.9999751448631287
+IndepMod-9,event-based,0.9999264478683472
+JGit-1,event-based / object-based,0.9992977678775787
+JGit-2,object-based / event-based,0.9885257184505463
+JavAkinator-1,message-based,0.7979969382286072
+JavaFileSync-1,object-based,0.8259155750274658
+JsTestDriver-1,object-based,0.9192836284637451
+JsTestDriver-10,object-based / message-based,0.999737024307251
+JsTestDriver-11,message-based,0.9994732141494751
+JsTestDriver-12,message-based,0.7605264782905579
+JsTestDriver-13,event-based,0.9994121789932251
+JsTestDriver-14,message-based,0.9994585514068604
+JsTestDriver-15,message-based,0.9939984083175659
+JsTestDriver-16,object-based / message-based,0.9996300339698792
+JsTestDriver-17,object-based,0.999259889125824
+JsTestDriver-2,message-based,0.99995356798172
+JsTestDriver-3,message-based / event-based,0.9429048299789429
+JsTestDriver-4,message-based,0.898475706577301
+JsTestDriver-5,message-based,0.999915599822998
+JsTestDriver-6,message-based,0.9999009370803833
+JsTestDriver-7,message-based,0.9535120725631714
+JsTestDriver-8,message-based,0.999833345413208
+JsTestDriver-9,event-based,0.9996966123580933
+MobileEye-1,event-based,0.9999688267707825
+MobileEye-2,event-based,0.9725400805473328
+MobileEye-3,event-based / object-based,0.9080818593502045
+MobileEye-4,event-based,0.9998599886894226
+MultiAPIDemo-1,message-based / object-based,0.9998648464679718
+MultiAPIDemo-2,event-based,0.7829282283782959
+MultiAPIDemo-3,event-based,0.8394564390182495
+MusicQuiz-1,event-based / object-based,0.9996970891952515
+MusicQuiz-2,event-based,0.9998619556427002
+MusicQuiz-3,event-based,0.9998424649238586
+MusicQuiz-4,event-based,0.9999465942382812
+NetConnect-1,object-based / message-based,0.9999828934669495
+NetConnect-2,event-based / object-based,0.9995655715465546
+OS.Build-Reader-1,event-based,0.9996429681777954
+OpenLBS-Android-1,event-based / object-based,0.9790220856666565
+OpenLBS-Android-2,event-based,0.971871018409729
+OpenLBS-Android-3,event-based / object-based,0.9360052943229675
+OpenLBS-Android-4,message-based,0.9998506903648376
+Openbravo-1,message-based / event-based,0.9999996423721313
+Openbravo-10,message-based / object-based,0.9997491538524628
+Openbravo-11,object-based,0.9996486306190491
+Openbravo-12,message-based / event-based,0.9996541440486908
+Openbravo-13,event-based,0.9997184872627258
+Openbravo-14,object-based,0.9993755221366882
+Openbravo-2,message-based / object-based,0.9635703414678574
+Openbravo-3,object-based / message-based,0.9999871551990509
+Openbravo-4,message-based / object-based,0.9999696016311646
+Openbravo-5,message-based / object-based,0.8893000781536102
+Openbravo-6,message-based,0.8159895539283752
+Openbravo-7,message-based / event-based,0.8865332156419754
+Openbravo-8,message-based,0.7815276384353638
+Openbravo-9,message-based,0.909095287322998
+PermissionReader-1,event-based,0.9998058676719666
+Processing.py-Eclipse-Launcher-1,event-based,0.8450003266334534
+RESTling-1,message-based,0.7640571594238281
+RESTling-2,message-based / object-based,0.9999822676181793
+RESTling-3,object-based,0.7569194436073303
+RESTling-4,object-based / message-based,0.9999241828918457
+RESTling-5,object-based,0.9995003342628479
+SOAP-1,message-based,0.9999759197235107
+SOAP-2,message-based / event-based,0.8678061366081238
+SOAP-3,event-based / message-based,0.9998409450054169
+TaskTrckr-1,event-based,0.9953322410583496
+TaskTrckr-2,object-based,0.8839800357818604
+TaskTrckr-3,event-based,0.9998077750205994
+Tetris-1,message-based / object-based,0.8262072950601578
+Tetris-2,message-based,0.7789312601089478
+Tetris-3,message-based,0.7593773007392883
+Tetris-4,message-based / event-based,0.9998886287212372
+Tetris-5,event-based,0.9990186095237732
+Tetris-6,event-based / message-based,0.9999474585056305
+Tetris-7,message-based / event-based,0.999861091375351
+Tetris-8,event-based,0.9993091225624084
+Twitter-1,event-based,0.9214692115783691
+Twitter-2,event-based,0.9999496340751648
+TwitterEvents-1,event-based,0.7997128367424011
+Usherb-IFT585-TP1-Link-layer-1,message-based / object-based,0.9791088104248047
+Usherb-IFT585-TP1-Link-layer-2,event-based / message-based,0.8624371290206909
+Usherb-IFT585-TP1-Link-layer-3,event-based / object-based,0.9998536109924316
+Usherb-IFT585-TP1-Link-layer-4,object-based,0.9997544884681702
+Util-1,event-based,0.9984626173973083
+Wajavassr-1,message-based / event-based,0.9999610781669617
+XMLEditor-1,event-based,0.9999728202819824
+XMLEditor-2,object-based,0.8573876023292542
+XMLEditor-3,object-based,0.9959619641304016
+XMLEditor-4,object-based,0.9971092343330383
+XMLEditor-5,event-based,0.9997367858886719
+XMLEditor-6,event-based / object-based,0.9998835623264313
+altlaw-extract-1,object-based,0.907220721244812
+altlaw-extract-2,object-based,0.9551772475242615
+altlaw-extract-3,object-based,0.9997292757034302
+altlaw-extract-4,object-based,0.9995222687721252
+amqp-spring-1,object-based / message-based,0.9007071256637573
+amqp-spring-2,message-based,0.9999315142631531
+amqp-spring-3,object-based / message-based,0.9999074637889862
+amqp-spring-4,message-based,0.8326637148857117
+amqp-spring-5,message-based / object-based,0.9998506903648376
+amqp-spring-6,message-based,0.9994738101959229
+amqp-spring-7,object-based,0.8171426653862
+amqp-spring-8,message-based / object-based,0.9997562766075134
+amqp-spring-9,object-based,0.9975089430809021
+android-sasl-1,object-based,0.9945204257965088
+android-sasl-2,event-based,0.9999996423721313
+android-sasl-3,event-based,0.8804531693458557
+android-sasl-4,event-based / object-based,0.9999991655349731
+android-wave-client-1,object-based,0.8730478286743164
+android-wave-client-2,event-based,0.7559146881103516
+android_app-1,object-based,0.9395626783370972
+android_packages_apps_Mms-1,event-based / object-based,0.9985314309597015
+android_packages_apps_Mms-2,object-based / event-based,0.7838022112846375
+antisamy-filter-1,message-based / object-based,0.9999740123748779
+antisamy-filter-2,object-based,0.999373733997345
+aoi-Headless-1,event-based,0.9990916848182678
+artoz_pim-1,message-based,0.9999967813491821
+artoz_pim-10,event-based,0.9995741844177246
+artoz_pim-11,event-based,0.9995741844177246
+artoz_pim-12,message-based / object-based,0.9999319911003113
+artoz_pim-2,object-based / message-based,0.9090295732021332
+artoz_pim-3,event-based / message-based,0.9972767233848572
+artoz_pim-4,event-based / object-based,0.8791765570640564
+artoz_pim-5,message-based,0.9997847080230713
+artoz_pim-6,message-based,0.9999967217445374
+artoz_pim-7,message-based,0.9999967217445374
+artoz_pim-8,message-based,0.9999967217445374
+artoz_pim-9,message-based,0.9999967217445374
+ase4j-1,message-based / object-based,0.9999968409538269
+ase4j-2,message-based,0.9811986088752747
+ase4j-3,object-based,0.9141327142715454
+awindow-1,event-based,0.9991676211357117
+basic-clock-1,object-based,0.9997751116752625
+basic-typed-stack-1,object-based,0.999474048614502
+bits4j-1,message-based,0.8223904371261597
+buckley-1,message-based / object-based,0.8979849219322205
+buckley-10,message-based / event-based,0.9998214840888977
+buckley-2,event-based / object-based,0.8455708920955658
+buckley-3,object-based / message-based,0.9136422276496887
+buckley-4,object-based / event-based,0.9999055862426758
+buckley-5,event-based,0.9103320240974426
+buckley-6,event-based / object-based,0.8602193593978882
+buckley-7,object-based / event-based,0.9998385906219482
+buckley-8,event-based,0.9996228218078613
+buckley-9,object-based / event-based,0.9996298253536224
+buildwall-ng-1,event-based,0.9650250673294067
+buildwall-ng-2,event-based,0.9998950958251953
+buildwall-ng-3,message-based,0.7692915201187134
+buildwall-ng-4,object-based,0.9997057914733887
+buildwall-ng-5,object-based / event-based,0.9998897910118103
+cassandra-1,message-based,0.9987623691558838
+cassandra-2,object-based / message-based,0.9999645352363586
+cassandra-3,message-based,0.9997435212135315
+cassandra-4,object-based,0.9950306415557861
+cdiext-1,object-based,0.9026467800140381
+cdiext-2,message-based / object-based,0.9999832808971405
+cdiext-3,object-based / event-based,0.9999835193157196
+cdiext-4,object-based,0.9998933672904968
+cdiext-5,message-based,0.9988899230957031
+cdiext-6,object-based,0.9993338584899902
+cdiext-7,object-based / message-based,0.9997145533561707
+cdiext-8,object-based,0.9993315935134888
+cdiext-9,message-based,0.9985688328742981
+cibus-1,object-based,0.9962136149406433
+cibus-2,event-based / object-based,0.9291138052940369
+cibus-3,object-based,0.9971458911895752
+cibus2-1,object-based,0.9997434020042419
+cibus2-2,object-based,0.9995124340057373
+cibus2-3,object-based,0.8615906238555908
+cinch-1,message-based,0.8929532766342163
+classpath-manager-1,object-based,0.9996223449707031
+code-retreat-reykjavik-1,event-based,0.9999610781669617
+code-retreat-reykjavik-2,event-based,0.9999064803123474
+code-retreat-reykjavik-3,event-based,0.9995736479759216
+code-retreat-reykjavik-4,event-based,0.9994244575500488
+code-retreat-reykjavik-5,event-based,0.9995834231376648
+confcaller-1,event-based,0.7990213632583618
+confcaller-2,event-based,0.999444842338562
+defac-1,object-based / message-based,0.9999717473983765
+defac-2,object-based,0.9998058080673218
+defac-3,message-based / object-based,0.9997214078903198
+defac-4,event-based / message-based,0.9999297857284546
+defac-5,event-based / object-based,0.9989982545375824
+defac-6,object-based,0.9988203644752502
+doogal-1,event-based / object-based,0.9988144338130951
+doogal-2,object-based / message-based,0.940096378326416
+doogal-3,object-based,0.9988252520561218
+doogal-4,event-based,0.999608039855957
+doogal-5,object-based,0.9997892379760742
+doogal-6,message-based,0.9901443123817444
+droidraw-1,event-based,0.9998227953910828
+dsl4eclipse-1,event-based,0.7695729732513428
+dsl4eclipse-2,event-based,0.9996875524520874
+dsl4eclipse-3,object-based,0.9007774591445923
+dwr-toplink-1,object-based,0.9312878251075745
+dwr-toplink-2,object-based,0.9994738101959229
+edmontoninfo_android-1,event-based,0.9784796237945557
+edmontoninfo_android-10,event-based / object-based,0.9997369349002838
+edmontoninfo_android-11,event-based,0.9999209046363831
+edmontoninfo_android-12,event-based,0.9999350309371948
+edmontoninfo_android-13,event-based,0.9996429681777954
+edmontoninfo_android-14,event-based / message-based,0.9998571872711182
+edmontoninfo_android-15,event-based,0.9995450377464294
+edmontoninfo_android-16,event-based,0.9999155402183533
+edmontoninfo_android-17,event-based / object-based,0.9988901913166046
+edmontoninfo_android-2,object-based / event-based,0.8867701143026352
+edmontoninfo_android-3,object-based / event-based,0.9999337196350098
+edmontoninfo_android-4,event-based,0.999946653842926
+edmontoninfo_android-5,object-based / event-based,0.9999314546585083
+edmontoninfo_android-6,event-based / object-based,0.99993896484375
+edmontoninfo_android-7,object-based / event-based,0.9999258816242218
+edmontoninfo_android-8,object-based / event-based,0.9999247193336487
+edmontoninfo_android-9,object-based / event-based,0.9999186098575592
+eftepd-1,message-based,0.9737566709518433
+eftepd-2,message-based,0.9996069669723511
+etherpad-1,object-based,0.9999962449073792
+etherpad-10,object-based,0.9999389052391052
+etherpad-11,object-based,0.9999141097068787
+etherpad-12,object-based,0.9574946165084839
+etherpad-13,object-based,0.9655976295471191
+etherpad-14,object-based,0.9999387860298157
+etherpad-15,object-based,0.9999539256095886
+etherpad-16,event-based,0.9183800220489502
+etherpad-17,message-based / object-based,0.9998935759067535
+etherpad-18,event-based / object-based,0.9999258816242218
+etherpad-19,object-based,0.9998856782913208
+etherpad-2,object-based,0.9613323211669922
+etherpad-20,object-based / message-based,0.9998888373374939
+etherpad-21,object-based / message-based,0.9999738037586212
+etherpad-22,object-based / message-based,0.9998201429843903
+etherpad-23,object-based,0.9975064396858215
+etherpad-24,object-based,0.9996362328529358
+etherpad-25,object-based,0.999259889125824
+etherpad-26,object-based,0.9901394844055176
+etherpad-3,object-based,0.999984622001648
+etherpad-4,object-based,0.9219680428504944
+etherpad-5,object-based,0.9999694228172302
+etherpad-6,object-based,0.9925752282142639
+etherpad-7,object-based,0.987773597240448
+etherpad-8,object-based,0.9999521970748901
+etherpad-9,event-based / object-based,0.9999928772449493
+fade-1,object-based,0.9999842643737793
+fade-2,event-based,0.9981841444969177
+fauxml-1,object-based,0.9826048016548157
+fbus-1,event-based,0.8340468406677246
+fc-1,object-based,0.9035961031913757
+fc-2,object-based / message-based,0.9998898506164551
+fc-3,object-based,0.9998371601104736
+feivel-1,object-based / message-based,0.9999530911445618
+feivel-2,object-based,0.9995652437210083
+feivel-3,object-based,0.9990005493164062
+fwf-1,message-based,0.7876138687133789
+fwf-2,message-based / object-based,0.999905526638031
+fwf-3,message-based,0.9996491074562073
+fwf-4,event-based,0.7755103707313538
+fwf-5,message-based,0.8755858540534973
+fwf-6,event-based / object-based,0.9998142123222351
+fwf-7,message-based,0.8303528428077698
+fwf-8,event-based,0.9985743165016174
+fwf-9,event-based / object-based,0.831177145242691
+gab-web-example-1,object-based,0.997976541519165
+generator-example-1,message-based,0.9169590473175049
+google-sites-liberation-1,object-based / event-based,0.9999690651893616
+google-sites-liberation-10,object-based,0.9994285702705383
+google-sites-liberation-2,object-based / message-based,0.9999509453773499
+google-sites-liberation-3,object-based / event-based,0.9999537020921707
+google-sites-liberation-4,object-based,0.919234037399292
+google-sites-liberation-5,object-based / message-based,0.8838996291160583
+google-sites-liberation-6,object-based,0.7525015473365784
+google-sites-liberation-7,event-based,0.9041123986244202
+google-sites-liberation-8,object-based / message-based,0.9602998197078705
+google-sites-liberation-9,event-based,0.9993093609809875
+google-wave-api-1,object-based,0.9941960573196411
+google-wave-api-10,message-based,0.9903436899185181
+google-wave-api-11,event-based / object-based,0.9995453357696533
+google-wave-api-12,object-based,0.9993109703063965
+google-wave-api-13,message-based,0.9992600083351135
+google-wave-api-14,object-based,0.9992315173149109
+google-wave-api-15,object-based,0.9991315007209778
+google-wave-api-16,object-based,0.9901458621025085
+google-wave-api-17,,
+google-wave-api-18,object-based / message-based,0.9998108148574829
+google-wave-api-19,object-based,0.9998973608016968
+google-wave-api-2,object-based,0.999997079372406
+google-wave-api-20,object-based,0.9997561573982239
+google-wave-api-21,object-based,0.9998823404312134
+google-wave-api-22,message-based,0.9981859922409058
+google-wave-api-23,message-based,0.9805822968482971
+google-wave-api-24,message-based,0.980575680732727
+google-wave-api-3,object-based,0.9281099438667297
+google-wave-api-4,object-based,0.9999692440032959
+google-wave-api-5,object-based,0.8467361927032471
+google-wave-api-6,object-based / message-based,0.9872684478759766
+google-wave-api-7,object-based,0.9999746084213257
+google-wave-api-8,,
+google-wave-api-9,message-based / object-based,0.9998700022697449
+greensopinion.restexample-1,object-based,0.9999399781227112
+greensopinion.restexample-2,object-based,0.9997673630714417
+greensopinion.restexample-3,message-based / object-based,0.9999530911445618
+greensopinion.restexample-4,object-based / message-based,0.9998835623264313
+handwriting-1,object-based,0.7871224880218506
+handwriting-2,event-based,0.9532055854797363
+handwriting-3,event-based,0.9996814131736755
+hazelcast-actor-1,message-based,0.945770800113678
+hazelcast-actor-2,message-based,0.766739547252655
+hazelcast-actor-3,message-based,0.9998229742050171
+hazelcast-actor-4,message-based,0.999615490436554
+hazelcast-actor-5,message-based / object-based,0.9998144209384918
+hbasene-1,event-based / object-based,0.8654244840145111
+hbasene-2,message-based / object-based,0.9999580979347229
+hbasene-3,object-based / message-based,0.9999285042285919
+hbasene-4,event-based / object-based,0.9998998641967773
+hbasene-5,message-based / object-based,0.9997917413711548
+hbasene-6,event-based,0.9995123147964478
+hbasene-7,message-based,0.860719621181488
+hbasene-8,object-based / message-based,0.7542957961559296
+heritrix-rest-client-1,object-based,0.8287885785102844
+heritrix3-1,object-based,0.935490608215332
+heritrix3-10,object-based / message-based,0.9996004998683929
+heritrix3-11,object-based / message-based,0.999334305524826
+heritrix3-2,object-based,0.9794323444366455
+heritrix3-3,object-based,0.9999716281890869
+heritrix3-4,object-based,0.9999395608901978
+heritrix3-5,object-based / message-based,0.999975323677063
+heritrix3-6,object-based,0.8693366050720215
+heritrix3-7,object-based,0.9987521171569824
+heritrix3-8,object-based,0.9994874000549316
+heritrix3-9,object-based / message-based,0.9995988309383392
+httpbot-1,object-based / message-based,0.9999198317527771
+httpbot-2,object-based,0.9996544718742371
+ii2-gt-group-c-1,message-based / event-based,0.834278792142868
+ii2-gt-group-c-2,event-based / object-based,0.9999000132083893
+ii2-gt-group-c-3,message-based / object-based,0.7996329963207245
+ii2-gt-group-c-4,,
+ii2-gt-group-c-5,message-based,0.7556059956550598
+ii2-gt-group-c-6,object-based,0.9995740056037903
+ii2-gt-group-c-7,object-based,0.9995918869972229
+importscour-1,message-based / object-based,0.9999460875988007
+importscour-2,object-based,0.8897888660430908
+importscour-3,object-based,0.9996967911720276
+importscour-4,event-based,0.770767867565155
+importscour-5,object-based,0.9286471009254456
+importscour-6,object-based,0.9977841377258301
+instant-ws-example-1,message-based,0.9993936419487
+instant-ws-example-2,message-based,0.9995835423469543
+isbndb-api-1,message-based,0.9998725652694702
+isbndb-api-2,message-based,0.9996874928474426
+isbndb-api-3,message-based / event-based,0.9997727274894714
+isbndb-api-4,object-based / message-based,0.9997299611568451
+jacorb-1,object-based,0.9321580529212952
+jacorb-2,object-based / event-based,0.912922129034996
+jacorb-3,object-based,0.9999956488609314
+jacorb-4,object-based,0.9999382495880127
+jacorb-5,object-based,0.9988216161727905
+jacorb-6,message-based,0.9987502098083496
+jacorb-7,event-based / object-based,0.9090382754802704
+jastadd-tags-1,event-based / object-based,0.8430390357971191
+jastadd-tags-2,message-based / object-based,0.9999229609966278
+java-campussearch-1,message-based / object-based,0.999933511018753
+java-hstore-1,object-based,0.9999189376831055
+java-hstore-2,object-based,0.846772313117981
+java-hstore-3,object-based,0.9997644424438477
+java-hstore-4,object-based,0.9998638033866882
+java-hstore-5,object-based,0.9998164176940918
+java-hstore-6,object-based,0.9988902807235718
+java-hstore-7,object-based / message-based,0.9997494518756866
+java-hstore-sample-1,object-based,0.9996713995933533
+java-hstore-sample-2,object-based,0.9998591542243958
+java-mime-multipart-mixed-1,object-based,0.9999093413352966
+java-mime-multipart-mixed-2,object-based,0.9996970891952515
+java_deps-1,object-based / message-based,0.9999991059303284
+java_deps-2,object-based,0.9526547789573669
+java_deps-3,message-based,0.9988883137702942
+java_deps-4,object-based / message-based,0.9996299147605896
+javamidi-1,object-based,0.9998806118965149
+jboss-beans-jndi-example-1,,
+jdbc-perf-wrapper-1,message-based,0.9999008178710938
+jdbc-perf-wrapper-2,message-based,0.9472713470458984
+jdbc-perf-wrapper-3,message-based / object-based,0.9997673630714417
+jdbc-perf-wrapper-4,message-based,0.9998400211334229
+jgit-simple-1,event-based / object-based,0.9946881532669067
+jsqueeze-1,event-based / message-based,0.9999737441539764
+jsqueeze-2,event-based / message-based,0.999973714351654
+jsqueeze-3,message-based,0.7926914095878601
+jsqueeze-4,message-based,0.8471139073371887
+jsqueeze-5,message-based / event-based,0.9999098181724548
+jsqueeze-6,message-based / object-based,0.9999046921730042
+jsst-1,message-based,0.8658007979393005
+jsst-2,message-based,0.9995992183685303
+jsst-3,message-based,0.9995558261871338
+jsst-4,message-based,0.9992315769195557
+jtcaggr-1,object-based / message-based,0.9999828040599823
+jtcaggr-2,object-based,0.8196184039115906
+jtcaggr-3,message-based / object-based,0.9999586641788483
+jtcaggr-4,message-based / object-based,0.9999561011791229
+jtcaggr-5,object-based / message-based,0.9998302161693573
+jtcaggr-6,message-based,0.7504169344902039
+jtcaggr-7,message-based,0.8856504559516907
+klotski-1,object-based,0.8986660242080688
+klotski-2,message-based,0.8990567922592163
+kramer-1,message-based,0.9315034747123718
+kramer-2,message-based,0.8508896827697754
+kramer-3,object-based,0.999090850353241
+ldapcon2009-apache-directory-1,object-based / message-based,0.7685197591781616
+ldapcon2009-datanucleus-1,event-based / object-based,0.9999789595603943
+ldapcon2009-datanucleus-2,event-based,0.7969852685928345
+ldapcon2009-datanucleus-3,event-based / message-based,0.9069111049175262
+ldapcon2009-datanucleus-4,event-based,0.8750668168067932
+ldapcon2009-datanucleus-5,object-based,0.9994281530380249
+libreadline-java-mac-1,message-based / object-based,0.9999725818634033
+libreadline-java-mac-2,object-based / message-based,0.9996285438537598
+life-1,event-based,0.9998700022697449
+limewire-1,message-based,0.9976447820663452
+limewire-10,object-based,0.9400450587272644
+limewire-11,message-based / object-based,0.9999073445796967
+limewire-12,message-based / object-based,0.9998199641704559
+limewire-13,message-based / event-based,0.9998661577701569
+limewire-14,message-based,0.7620616555213928
+limewire-15,event-based,0.9993745684623718
+limewire-16,message-based,0.9950289130210876
+limewire-17,object-based,0.8749855756759644
+limewire-18,message-based,0.9992595314979553
+limewire-19,event-based,0.999523401260376
+limewire-2,event-based,0.9885398149490356
+limewire-20,message-based,0.9995125532150269
+limewire-21,event-based,0.9993754029273987
+limewire-22,event-based,0.9993552565574646
+limewire-3,event-based,0.7698798179626465
+limewire-4,message-based,0.9999986290931702
+limewire-5,message-based / event-based,0.9999992251396179
+limewire-6,message-based / event-based,0.9189377427101135
+limewire-7,message-based,0.9999969601631165
+limewire-8,message-based,0.9999913573265076
+limewire-9,message-based,0.7866938710212708
+linkdroid-1,object-based / event-based,0.9999892115592957
+linkdroid-2,object-based / event-based,0.9859307408332825
+linkdroid-3,object-based / event-based,0.9999871551990509
+linkdroid-4,object-based,0.9999288320541382
+linkdroid-5,object-based,0.9152522087097168
+linkdroid-6,object-based,0.9545741677284241
+linkdroid-7,object-based / event-based,0.999981164932251
+maven-guide-de-1,message-based,0.9999176263809204
+maven-guide-de-2,message-based,0.9998849630355835
+maven-guide-de-3,message-based / object-based,0.9994743764400482
+maven-guide-zh-1,message-based,0.9999176263809204
+maven-guide-zh-2,message-based,0.999862015247345
+maven-guide-zh-3,message-based / object-based,0.9994743466377258
+mbook-1,message-based,0.9977837800979614
+media_compressor-1,object-based,0.9999217987060547
+megaware_dataencrypter-1,event-based,0.9999873042106628
+megaware_dataencrypter-2,,
+megaware_dataencrypter-3,event-based,0.8328973650932312
+megaware_dataencrypter-4,event-based,0.9999476075172424
+messenger-sdk-1,message-based,0.8795288801193237
+messenger-sdk-10,object-based,0.7864629030227661
+messenger-sdk-11,event-based / message-based,0.9999363422393799
+messenger-sdk-2,message-based / event-based,0.9999853372573853
+messenger-sdk-3,message-based,0.8398725390434265
+messenger-sdk-4,event-based / message-based,0.9999706745147705
+messenger-sdk-5,message-based,0.8351714015007019
+messenger-sdk-6,message-based,0.9998794198036194
+messenger-sdk-7,message-based,0.9995553493499756
+messenger-sdk-8,message-based,0.8701303005218506
+messenger-sdk-9,message-based,0.7764905095100403
+mirinae-swissknife-1,event-based,0.9996349811553955
+mmfplanner-1,event-based,0.9999819993972778
+mmfplanner-2,event-based,0.9999821782112122
+mmfplanner-3,event-based,0.9999377131462097
+mmfplanner-4,event-based,0.9998800158500671
+mmfplanner-5,event-based,0.9997873306274414
+mmfplanner-6,event-based,0.9998517036437988
+mmfplanner-7,event-based,0.8621605634689331
+mmfplanner-8,event-based,0.9998747110366821
+mobile-banking-webui-1,message-based,0.9999515414237976
+mobile-banking-webui-2,message-based,0.9999412894248962
+mobile-banking-webui-3,message-based,0.9023400545120239
+mobile-banking-webui-4,message-based,0.7819652557373047
+mobile-banking-webui-5,event-based,0.9995110630989075
+mobile-banking-webui-6,message-based,0.9983372688293457
+mobile-banking-webui-7,message-based,0.8227288722991943
+mobile-banking-webui-8,message-based,0.8498373627662659
+moby-1,object-based,0.9999994039535522
+moby-2,event-based,0.7602666616439819
+moby-3,event-based / object-based,0.9998897612094879
+moby-4,object-based / message-based,0.9999525845050812
+moby-5,event-based,0.8478217124938965
+moby-6,event-based,0.999131441116333
+moby-7,message-based,0.9966807961463928
+namqp-1,object-based,0.8005146980285645
+namqp-2,object-based / message-based,0.9923537373542786
+namqp-3,object-based / message-based,0.9999707341194153
+namqp-4,object-based,0.9998077154159546
+namqp-5,message-based / object-based,0.8367199450731277
+namqp-6,message-based / event-based,0.9998862743377686
+ngMUD-1,message-based,0.9445936679840088
+ngMUD-2,object-based / event-based,0.7877945601940155
+ngMUD-3,object-based,0.9995648860931396
+ngMUD-4,event-based,0.998890221118927
+observer-1,message-based,0.8581138849258423
+observer-2,object-based / message-based,0.8248396217823029
+ogc-1,object-based / event-based,0.9999867677688599
+ogc-2,object-based,0.9999852180480957
+ogc-3,object-based / message-based,0.9448656737804413
+ogc-4,object-based,0.9999086260795593
+ogc-5,object-based,0.9998359084129333
+ogc-6,message-based / event-based,0.8950902372598648
+ogc-7,message-based,0.999354898929596
+openamq-jms-1,message-based / event-based,0.8522456586360931
+openamq-jms-2,message-based,0.9999625086784363
+openamq-jms-3,message-based,0.8378710150718689
+openaustraliasearchdroid-1,event-based,0.9999095797538757
+openaustraliasearchdroid-2,event-based / object-based,0.9999361336231232
+openaustraliasearchdroid-3,object-based / event-based,0.9999105632305145
+openaustraliasearchdroid-4,event-based / object-based,0.9999089539051056
+openshapa-plugin-dev-guide-1,event-based,0.847541332244873
+opensourcedebugging-1,event-based,0.8049371242523193
+opensourcedebugging-2,event-based / message-based,0.9998936653137207
+opensourcedebuggingjava-1,object-based / event-based,0.9985750615596771
+org.eclipselabs.p2.rcpupdate-1,event-based / object-based,0.99985671043396
+org.eclipselabs.p2.rcpupdate-2,object-based / event-based,0.9998551309108734
+org.eclipselabs.p2.rcpupdate-3,event-based,0.9993108510971069
+packetspy-1,message-based,0.8449739813804626
+packetspy-2,object-based,0.9987506866455078
+packetspy-3,message-based / event-based,0.9997277855873108
+packetspy-4,message-based,0.764569878578186
+paraDemo-1,object-based,0.999992847442627
+paraDemo-2,object-based / message-based,0.9294853210449219
+paraDemo-3,object-based,0.9999816417694092
+paraDemo-4,object-based / event-based,0.9999460577964783
+paraDemo-5,object-based / event-based,0.9996263086795807
+parallelpaint-server-1,object-based / event-based,0.9999739229679108
+parallelpaint-server-2,message-based,0.9999073147773743
+patched-xfire-1,message-based / object-based,0.9999968111515045
+patched-xfire-10,message-based,0.9998539090156555
+patched-xfire-11,message-based,0.9056288003921509
+patched-xfire-12,object-based,0.9999064803123474
+patched-xfire-13,object-based,0.9998214244842529
+patched-xfire-14,object-based,0.7641564011573792
+patched-xfire-15,object-based,0.9998331069946289
+patched-xfire-16,message-based,0.9991294145584106
+patched-xfire-17,object-based / message-based,0.9999428987503052
+patched-xfire-18,event-based / message-based,0.9998305439949036
+patched-xfire-19,object-based / message-based,0.999957263469696
+patched-xfire-2,message-based,0.8967128992080688
+patched-xfire-20,object-based / message-based,0.9996431767940521
+patched-xfire-21,object-based,0.9998113512992859
+patched-xfire-22,object-based,0.9988906383514404
+patched-xfire-23,object-based,0.9995835423469543
+patched-xfire-24,object-based / message-based,0.9998945891857147
+patched-xfire-25,object-based,0.9993297457695007
+patched-xfire-26,message-based,0.9960210919380188
+patched-xfire-27,message-based,0.9975077509880066
+patched-xfire-3,object-based / message-based,0.9999862015247345
+patched-xfire-4,message-based / object-based,0.9999915361404419
+patched-xfire-5,message-based,0.9346917271614075
+patched-xfire-6,message-based / object-based,0.9999733567237854
+patched-xfire-7,object-based / message-based,0.9999518394470215
+patched-xfire-8,object-based,0.9116987586021423
+patched-xfire-9,object-based / message-based,0.9999702870845795
+pctDroidApp-1,object-based / message-based,0.999817430973053
+pctDroidApp-2,event-based,0.9986547231674194
+play-user-sample-1,event-based / message-based,0.9994449615478516
+plexus-component-factories-1,object-based / event-based,0.999920517206192
+plexus-component-factories-2,event-based,0.9960170984268188
+plexus-component-factories-3,object-based / event-based,0.999868243932724
+pocker-e-sueca-1,object-based,0.9999433159828186
+pocker-e-sueca-2,object-based,0.87850022315979
+pocker-e-sueca-3,object-based,0.999926745891571
+pocker-e-sueca-4,object-based,0.9998928904533386
+pocker-e-sueca-5,object-based,0.9998176097869873
+pocker-e-sueca-6,event-based / object-based,0.999582052230835
+post-to-friendfeed-1,object-based / event-based,0.8607929050922394
+post-to-friendfeed-2,object-based,0.9217215776443481
+ptc-1,event-based,0.9998481273651123
+pushr-for-android-1,message-based / object-based,0.9122539758682251
+pushr-for-android-2,object-based / message-based,0.9997827410697937
+pushr-for-android-3,object-based / event-based,0.9998356997966766
+pushr-for-android-4,event-based / message-based,0.8839423358440399
+pushr-for-android-5,object-based,0.9983294010162354
+rcputils-1,event-based / object-based,0.9786199033260345
+rcputils-2,object-based / event-based,0.9999563097953796
+rcputils-3,event-based,0.8676384091377258
+rcputils-4,object-based,0.9998198747634888
+rcputils-5,event-based,0.9998129606246948
+rcputils-6,event-based,0.9966825246810913
+rcputils-7,object-based,0.9988255500793457
+rcputils-8,event-based / object-based,0.9997060894966125
+rdf-order-1,object-based / message-based,0.9998887181282043
+redmineissuedumptool-1,message-based,0.8501884341239929
+rest-demo-1,message-based,0.8671321868896484
+rest-demo-2,message-based,0.9985743165016174
+restunit-1,message-based,0.9859005212783813
+restunit-2,message-based,0.999941885471344
+restunit-3,message-based / object-based,0.9999479055404663
+satellite-1,message-based,0.999629557132721
+satellite-2,message-based / event-based,0.9996771514415741
+scorm2fedora-1,event-based / object-based,0.9999191164970398
+scorm2fedora-2,event-based,0.9993301033973694
+shmrj-1,object-based,0.9998888373374939
+shore-1,object-based / message-based,0.9999897181987762
+shore-2,message-based / event-based,0.999944657087326
+shore-3,object-based,0.999642014503479
+shore-4,message-based,0.99951171875
+shorterPacketTester-1,message-based / object-based,0.9999339878559113
+skoly-1,event-based / message-based,0.9999799132347107
+skoly-10,message-based,0.9981860518455505
+skoly-11,event-based,0.9028245806694031
+skoly-12,event-based,0.9026329517364502
+skoly-13,object-based / message-based,0.9997823238372803
+skoly-2,message-based,0.9999571442604065
+skoly-3,event-based,0.8721874356269836
+skoly-4,message-based,0.9343303442001343
+skoly-5,event-based,0.9026976823806763
+skoly-6,event-based,0.8532088994979858
+skoly-7,event-based,0.9995642900466919
+skoly-8,event-based,0.8763530254364014
+skoly-9,message-based / event-based,0.9992871284484863
+spring-hibernate-startup-1,message-based,0.9514287710189819
+spring-hibernate-startup-2,message-based,0.7729385495185852
+statusbarCompass-1,object-based / event-based,0.9999185800552368
+studium_info-1,event-based,0.9999412894248962
+studium_info-2,object-based,0.9998228549957275
+studium_info-3,object-based,0.8186118006706238
+studium_info-4,object-based,0.9987456202507019
+studium_info-5,message-based,0.9547008275985718
+studium_info-6,object-based,0.9980043768882751
+studium_info-7,event-based,0.9901450276374817
+studium_info-8,event-based,0.9901432991027832
+sudo-ku-1,event-based,0.7757907509803772
+sudo-ku-2,event-based / message-based,0.9995636641979218
+sudo-ku-3,event-based,0.9989489316940308
+swinkar-1,event-based,0.980772852897644
+swinkar-2,event-based,0.9998331069946289
+swtbot-original-1,event-based,0.9999986886978149
+swtbot-original-10,event-based,0.9106015563011169
+swtbot-original-11,event-based,0.9999296069145203
+swtbot-original-12,object-based / event-based,0.9998587071895599
+swtbot-original-13,object-based,0.9994102120399475
+swtbot-original-14,event-based,0.9998639225959778
+swtbot-original-15,event-based / object-based,0.9999366402626038
+swtbot-original-16,event-based,0.9997673630714417
+swtbot-original-17,event-based,0.99991375207901
+swtbot-original-18,event-based / object-based,0.9998149275779724
+swtbot-original-19,object-based / event-based,0.999791830778122
+swtbot-original-2,event-based,0.9999885559082031
+swtbot-original-20,message-based / object-based,0.99992635846138
+swtbot-original-21,message-based / object-based,0.9999264180660248
+swtbot-original-22,event-based,0.9998164772987366
+swtbot-original-23,object-based / message-based,0.999777764081955
+swtbot-original-24,event-based,0.9992599487304688
+swtbot-original-25,object-based / message-based,0.9988496005535126
+swtbot-original-26,event-based / object-based,0.999756246805191
+swtbot-original-3,event-based,0.9999952912330627
+swtbot-original-4,event-based,0.9999862313270569
+swtbot-original-5,event-based,0.9999841451644897
+swtbot-original-6,object-based,0.7966368198394775
+swtbot-original-7,event-based,0.9998809099197388
+swtbot-original-8,object-based / event-based,0.9999427795410156
+swtbot-original-9,event-based,0.9999610185623169
+swtxml-1,object-based,0.9999629259109497
+swtxml-10,event-based,0.999767541885376
+swtxml-11,object-based,0.9996545314788818
+swtxml-12,object-based,0.9993104934692383
+swtxml-13,object-based / message-based,0.9985483884811401
+swtxml-14,object-based,0.9994438290596008
+swtxml-15,event-based / object-based,0.9998246729373932
+swtxml-16,event-based,0.9999144673347473
+swtxml-17,event-based,0.7592240571975708
+swtxml-18,object-based,0.9992599487304688
+swtxml-19,event-based,0.9997057914733887
+swtxml-2,object-based,0.7518919706344604
+swtxml-20,event-based / object-based,0.9990926086902618
+swtxml-3,object-based / event-based,0.9089204519987106
+swtxml-4,message-based / object-based,0.9999722242355347
+swtxml-5,object-based / message-based,0.9385904371738434
+swtxml-6,object-based / event-based,0.9998876750469208
+swtxml-7,event-based,0.8596408367156982
+swtxml-8,object-based / event-based,0.9999493956565857
+swtxml-9,event-based / object-based,0.8366516828536987
+textproto-1,event-based,0.9983369708061218
+thrudb-java-1,message-based,0.9999963045120239
+thrudb-java-2,message-based,0.9999926686286926
+thrudb-java-3,message-based / object-based,0.9999714493751526
+thrudb-java-4,message-based,0.9998000860214233
+thunk-1,message-based,0.9997217655181885
+thunk-2,message-based,0.9986669421195984
+thunk-3,message-based,0.9983341097831726
+thunk-4,message-based,0.9984614849090576
+thunk-5,message-based,0.9981825351715088
+thunk-6,message-based,0.9980036616325378
+thunk-7,message-based / object-based,0.9975109100341797
+tohu-generator-1,message-based,0.858473002910614
+translator-1,event-based,0.99904865026474
+translator-2,event-based,0.99904865026474
+twiterra-1,event-based,0.9876135587692261
+twiterra-2,message-based,0.9689054489135742
+twiterra-3,event-based,0.9870050549507141
+twiterra-4,event-based,0.9998992681503296
+valipse-1,message-based / object-based,0.8875152468681335
+valipse-2,object-based / event-based,0.7747102677822113
+valipse-3,event-based,0.8822484016418457
+vldocking-1,event-based,0.9999976754188538
+vldocking-2,event-based,0.9999856948852539
+vldocking-3,event-based,0.9997259378433228
+voldemort-sets-1,object-based,0.9997979998588562
+voldemort-sets-10,object-based,0.9034598469734192
+voldemort-sets-2,object-based,0.9998095631599426
+voldemort-sets-3,object-based,0.9998095631599426
+voldemort-sets-4,object-based,0.9997826218605042
+voldemort-sets-5,object-based,0.9997872710227966
+voldemort-sets-6,object-based,0.9997872710227966
+voldemort-sets-7,object-based / message-based,0.8629532754421234
+voldemort-sets-8,object-based / message-based,0.9997617304325104
+voldemort-sets-9,message-based / object-based,0.9997057318687439
+wagon-jetty-1,message-based / event-based,0.9203596413135529
+wagon-jetty-2,message-based / event-based,0.856306791305542
+wagon-jetty-3,message-based / object-based,0.9997727870941162
+wagon-jetty-4,message-based / event-based,0.9999449849128723
+website-legacy-1,,
+xmlson-1,object-based,0.9999406933784485
+xmlson-2,object-based,0.9999436736106873
+xmlson-3,object-based,0.9992313385009766
+xmlson-4,object-based,0.9993108510971069
+xmlson-5,object-based,0.998999834060669
+xmlson-6,object-based,0.9988213181495667
+ymail-javamail-1,object-based,0.999976634979248
+ymail-javamail-2,message-based / object-based,0.9999669194221497
+ymail-javamail-3,object-based,0.9538504481315613
+ymail-javamail-4,message-based / event-based,0.9999324083328247
+ymail-javamail-5,object-based,0.9993755221366882
+ymail-javamail-6,object-based / message-based,0.9994739294052124
